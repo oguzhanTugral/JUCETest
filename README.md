@@ -26,4 +26,3 @@ The runner uploads only score files from the user-specified directory and stores
 - The accelerated real-time parity test uses the same private engine through its batch and causal real-time adapters. Its aggregate report and hashes are published; the engine source is not.
 
 See `METHODS.md` for the protocol and `LICENSE` for the code license. Corpus files remain governed by the upstream project and are not redistributed here.
-
