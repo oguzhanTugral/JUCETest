@@ -9,4 +9,3 @@
 7. Hash all published result artifacts and verify them in continuous integration.
 
 The replay uses deterministic test streams to exercise record linkage and software timing. It is distinct from the separately reported recordings acquired with an eight-channel EEG system, a chest-strap cardiovascular sensor, facial-expression measures, and behavioral measures.
-
