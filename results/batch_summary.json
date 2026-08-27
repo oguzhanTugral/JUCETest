@@ -1,0 +1,3026 @@
+{
+  "source": "https://github.com/MarkGotham/When-in-Rome",
+  "files_requested": 335,
+  "files_completed": 335,
+  "errors": [],
+  "rows": 48639,
+  "labeled": 47667,
+  "abstentions": 972,
+  "per_work": [
+    {
+      "index": 1,
+      "file": "001_J_S_Bach_Prelude_No_1.mxl",
+      "source_sha256": "7179b0aa86707cc2e6db004c30c5b94713b1cb0d201a58d4d70197be6311f974",
+      "row_count": 45,
+      "labeled_count": 45,
+      "abstention_count": 0,
+      "elapsed_ms": 6036.634
+    },
+    {
+      "index": 2,
+      "file": "002_J_S_Bach_Prelude_No_2.mxl",
+      "source_sha256": "e13adf687ff1b80ff801c34aa72fc4ac66312c58663364c4ac5d3bfc9aa4dc11",
+      "row_count": 86,
+      "labeled_count": 86,
+      "abstention_count": 0,
+      "elapsed_ms": 7810.424
+    },
+    {
+      "index": 3,
+      "file": "003_J_S_Bach_Prelude_No_3.mxl",
+      "source_sha256": "b736479ee227f5e475c779a4009fb91d1c340e688855c9a42adf3f4f374fa7a1",
+      "row_count": 97,
+      "labeled_count": 95,
+      "abstention_count": 2,
+      "elapsed_ms": 6109.008
+    },
+    {
+      "index": 4,
+      "file": "004_J_S_Bach_Prelude_No_4.mxl",
+      "source_sha256": "3a8471d25c3f71a71af2de19f351c95f945d3de4fb919b4c7ef92bc4149855a0",
+      "row_count": 101,
+      "labeled_count": 101,
+      "abstention_count": 0,
+      "elapsed_ms": 7442.865
+    },
+    {
+      "index": 5,
+      "file": "005_J_S_Bach_Prelude_No_5.mxl",
+      "source_sha256": "a522bed78e8d045b803d65167271668defc5a106e6aaace9d7c354e46d316f53",
+      "row_count": 81,
+      "labeled_count": 81,
+      "abstention_count": 0,
+      "elapsed_ms": 7971.95
+    },
+    {
+      "index": 6,
+      "file": "006_J_S_Bach_Prelude_No_6.mxl",
+      "source_sha256": "4de7ea61b6c90bc231923c926cf8a36ecd2b2aa2829c4d5bdb5e05f336e037f1",
+      "row_count": 77,
+      "labeled_count": 77,
+      "abstention_count": 0,
+      "elapsed_ms": 7979.276
+    },
+    {
+      "index": 7,
+      "file": "007_J_S_Bach_Prelude_No_7.mxl",
+      "source_sha256": "a8e386216eb89a14ed73c94c6c1d0bee0903345e4478d6f3e71340df3c1598ac",
+      "row_count": 202,
+      "labeled_count": 202,
+      "abstention_count": 0,
+      "elapsed_ms": 12202.665
+    },
+    {
+      "index": 8,
+      "file": "008_J_S_Bach_Prelude_No_8.mxl",
+      "source_sha256": "d927e102dcaedd7b26b48a8ee1a9f342d39fdaa0950baa409282a07dd2f2acf5",
+      "row_count": 71,
+      "labeled_count": 71,
+      "abstention_count": 0,
+      "elapsed_ms": 7579.696
+    },
+    {
+      "index": 9,
+      "file": "009_J_S_Bach_Prelude_No_9.mxl",
+      "source_sha256": "d581caa7ff81c4b0b78dbf57de49b869ad414594963ef50e7e37c0699abd166b",
+      "row_count": 78,
+      "labeled_count": 76,
+      "abstention_count": 2,
+      "elapsed_ms": 7393.268
+    },
+    {
+      "index": 10,
+      "file": "010_J_S_Bach_Prelude_No_10.mxl",
+      "source_sha256": "a36f889320af6ac986cb4e3b091d4d7edc1662d4fa0bb2e15f7ec68fa7ce483a",
+      "row_count": 90,
+      "labeled_count": 90,
+      "abstention_count": 0,
+      "elapsed_ms": 9859.794
+    },
+    {
+      "index": 11,
+      "file": "011_J_S_Bach_Prelude_No_11.mxl",
+      "source_sha256": "31d8c498130cec13966cfb800d57916b58dbc547ff5c5972a013f2fe0d3df981",
+      "row_count": 48,
+      "labeled_count": 48,
+      "abstention_count": 0,
+      "elapsed_ms": 6901.308
+    },
+    {
+      "index": 12,
+      "file": "012_J_S_Bach_Prelude_No_12.mxl",
+      "source_sha256": "6cf694fcedb9cf1672568da5da04dc23258e72176b9991d1c1777ce0306c49be",
+      "row_count": 66,
+      "labeled_count": 66,
+      "abstention_count": 0,
+      "elapsed_ms": 8080.222
+    },
+    {
+      "index": 13,
+      "file": "013_J_S_Bach_Prelude_No_13.mxl",
+      "source_sha256": "9c2fae600646832ccf1fa93898630bd14848c2c4dcfe9fc08d5a097a3f8d955e",
+      "row_count": 32,
+      "labeled_count": 12,
+      "abstention_count": 20,
+      "elapsed_ms": 7160.818
+    },
+    {
+      "index": 14,
+      "file": "014_J_S_Bach_Prelude_No_14.mxl",
+      "source_sha256": "9db2438ae5f5c0ec5e5fa16baad917a3ed910285de1e3c804bdfbb20aed74150",
+      "row_count": 62,
+      "labeled_count": 62,
+      "abstention_count": 0,
+      "elapsed_ms": 7241.95
+    },
+    {
+      "index": 15,
+      "file": "015_J_S_Bach_Prelude_No_15.mxl",
+      "source_sha256": "528ec9142b332ab231630ed0a293ba80b3b02f35b1517bb78daabbd880a0ae69",
+      "row_count": 42,
+      "labeled_count": 42,
+      "abstention_count": 0,
+      "elapsed_ms": 6379.521
+    },
+    {
+      "index": 16,
+      "file": "016_J_S_Bach_Prelude_No_16.mxl",
+      "source_sha256": "e40a89fd3e861255d533e68092c9b1fc36109e7c4107fa0628b7700667c5e576",
+      "row_count": 49,
+      "labeled_count": 49,
+      "abstention_count": 0,
+      "elapsed_ms": 8121.075
+    },
+    {
+      "index": 17,
+      "file": "017_J_S_Bach_Prelude_No_17.mxl",
+      "source_sha256": "b6f2da42a3c58519b20ad1a60c553a16e2e87b56f4852edd65d6794f944004e4",
+      "row_count": 71,
+      "labeled_count": 71,
+      "abstention_count": 0,
+      "elapsed_ms": 7588.85
+    },
+    {
+      "index": 18,
+      "file": "018_J_S_Bach_Prelude_No_18.mxl",
+      "source_sha256": "fc5b861696722069884752d6b3f2e528ff463b9848a4e10f5173705e03fcd8ef",
+      "row_count": 88,
+      "labeled_count": 88,
+      "abstention_count": 0,
+      "elapsed_ms": 6965.478
+    },
+    {
+      "index": 19,
+      "file": "019_J_S_Bach_Prelude_No_19.mxl",
+      "source_sha256": "a9b989b0cceea6f2ccde4c26d4a84ee9401a74e10599ae03046418ebda14ccc3",
+      "row_count": 64,
+      "labeled_count": 64,
+      "abstention_count": 0,
+      "elapsed_ms": 6504.786
+    },
+    {
+      "index": 20,
+      "file": "020_J_S_Bach_Prelude_No_20.mxl",
+      "source_sha256": "1a871d8cf5ef2ed50953fb4ea0e7acbf80ff29962f1ffeb445cf12288475de03",
+      "row_count": 49,
+      "labeled_count": 48,
+      "abstention_count": 1,
+      "elapsed_ms": 7204.376
+    },
+    {
+      "index": 21,
+      "file": "021_J_S_Bach_Prelude_No_21.mxl",
+      "source_sha256": "d19aeaca89172737c297dfacd8e64d1e76f34f73a6547631d5e48953f81528df",
+      "row_count": 49,
+      "labeled_count": 49,
+      "abstention_count": 0,
+      "elapsed_ms": 7275.586
+    },
+    {
+      "index": 22,
+      "file": "022_J_S_Bach_Prelude_No_22.mxl",
+      "source_sha256": "0a1484babd7a9fbb0ab3630c4f6c7b2d7febb1adf192fd866236f30466b313f8",
+      "row_count": 64,
+      "labeled_count": 64,
+      "abstention_count": 0,
+      "elapsed_ms": 8840.011
+    },
+    {
+      "index": 23,
+      "file": "023_J_S_Bach_Prelude_No_23.mxl",
+      "source_sha256": "26162fa3884931608a838061bed1bb74be76fd7ec5822dee5292aa08692e043a",
+      "row_count": 51,
+      "labeled_count": 51,
+      "abstention_count": 0,
+      "elapsed_ms": 6800.682
+    },
+    {
+      "index": 24,
+      "file": "024_J_S_Bach_Prelude_No_24.mxl",
+      "source_sha256": "8fb64fe411963a27de13caaef4b62af3c27dbba756394ed96edd1e9d6154219d",
+      "row_count": 131,
+      "labeled_count": 131,
+      "abstention_count": 0,
+      "elapsed_ms": 9225.354
+    },
+    {
+      "index": 25,
+      "file": "025_Fr_d_ric_Chopin_Prelude_Op_28_No_20_in_c_minor.mxl",
+      "source_sha256": "edb31d42097fdd3cef44a4e701d890810dc63aad62d33ce75d400f41acadd28c",
+      "row_count": 39,
+      "labeled_count": 39,
+      "abstention_count": 0,
+      "elapsed_ms": 6780.946
+    },
+    {
+      "index": 26,
+      "file": "026_Fr_d_ric_Chopin_tude_Op_10_No_1_in_C_major.mxl",
+      "source_sha256": "0bf630276e1848e544286ede0eafa68b3ea4ba1bb2fd18ee0cf5fe61405c64b8",
+      "row_count": 88,
+      "labeled_count": 87,
+      "abstention_count": 1,
+      "elapsed_ms": 9567.218
+    },
+    {
+      "index": 27,
+      "file": "027_Fr_d_ric_Chopin_tude_Op_10_No_12_in_C_minor.mxl",
+      "source_sha256": "005eec6ffbf8e3b5dddb8cc939f7dcb52dd10ce12ddf65118f10acdb11534bae",
+      "row_count": 132,
+      "labeled_count": 124,
+      "abstention_count": 8,
+      "elapsed_ms": 11146.234
+    },
+    {
+      "index": 28,
+      "file": "028_M_lanie_Bonis_1858_1937_Allons_prier.mxl",
+      "source_sha256": "47a3d679b6dc2099590edf1a4ef480ae75eb754c93281f852a25d3192792cb71",
+      "row_count": 130,
+      "labeled_count": 130,
+      "abstention_count": 0,
+      "elapsed_ms": 9301.062
+    },
+    {
+      "index": 29,
+      "file": "029_Johannes_Brahms_6_Songs_Op_3_3_Liebe_und_Fr_hling_II.mxl",
+      "source_sha256": "9cc173cdb042bfbc9beecb06f5ff212fcc8bff7fed4aa3686b5df2dc7c8a7dd9",
+      "row_count": 88,
+      "labeled_count": 86,
+      "abstention_count": 2,
+      "elapsed_ms": 10012.893
+    },
+    {
+      "index": 30,
+      "file": "030_Johannes_Brahms_7_Lieder_Op_48_3_Liebesklage_des_M_dchens.mxl",
+      "source_sha256": "f30e0e3ef0425168da1f2cb230d76ba1bc9b7c689e0cbd07ef2fe45f623ade98",
+      "row_count": 83,
+      "labeled_count": 83,
+      "abstention_count": 0,
+      "elapsed_ms": 7966.227
+    },
+    {
+      "index": 31,
+      "file": "031_Brahms.mxl",
+      "source_sha256": "bc98f0fe009d105bb8572ae2b537947f40fe0fffa36cb0601eeb5100134d9b59",
+      "row_count": 29,
+      "labeled_count": 29,
+      "abstention_count": 0,
+      "elapsed_ms": 8103.284
+    },
+    {
+      "index": 32,
+      "file": "032_Brahms.mxl",
+      "source_sha256": "b1a943ce19551f8b9451a164349f9a973cfaaae51b4f8f7911455ee2baca377d",
+      "row_count": 19,
+      "labeled_count": 19,
+      "abstention_count": 0,
+      "elapsed_ms": 8039.256
+    },
+    {
+      "index": 33,
+      "file": "033_Brahms.mxl",
+      "source_sha256": "02e193e96dbfc812b2035731c3db5dfd55919965a29a63e68310fa6b6590ddde",
+      "row_count": 22,
+      "labeled_count": 22,
+      "abstention_count": 0,
+      "elapsed_ms": 7328.25
+    },
+    {
+      "index": 34,
+      "file": "034_Brahms.mxl",
+      "source_sha256": "31ad7fc3951f53470fdd7037bbf265c8c3c8c2d8ef44af77c8e35bcc2e40a62f",
+      "row_count": 21,
+      "labeled_count": 21,
+      "abstention_count": 0,
+      "elapsed_ms": 7094.938
+    },
+    {
+      "index": 35,
+      "file": "035_Brahms.mxl",
+      "source_sha256": "47f9224de01eb48d23bfa27f0bb9c9f965699a08bd8706ae761255d6e4b174a4",
+      "row_count": 42,
+      "labeled_count": 42,
+      "abstention_count": 0,
+      "elapsed_ms": 7188.446
+    },
+    {
+      "index": 36,
+      "file": "036_Brahms.mxl",
+      "source_sha256": "1c4e2098346df229d62e1b5112230acd7e2ec6504ce1d2d32f5d989deb4d6cab",
+      "row_count": 52,
+      "labeled_count": 52,
+      "abstention_count": 0,
+      "elapsed_ms": 7258.107
+    },
+    {
+      "index": 37,
+      "file": "037_Brahms.mxl",
+      "source_sha256": "531ae8df930abf37124726cc928888590fa2092996cf16e6b737bc1779ce1119",
+      "row_count": 64,
+      "labeled_count": 64,
+      "abstention_count": 0,
+      "elapsed_ms": 8946.887
+    },
+    {
+      "index": 38,
+      "file": "038_Harry_Thacker_Burleigh_5_Songs_of_Laurence_Hope_No_2_The_Jungle_.mxl",
+      "source_sha256": "527b9d9ba028eaef946414bab5f576f4df60f12f045d17e724502045c2ff03fb",
+      "row_count": 99,
+      "labeled_count": 99,
+      "abstention_count": 0,
+      "elapsed_ms": 13267.237
+    },
+    {
+      "index": 39,
+      "file": "039_Harry_Thacker_Burleigh_5_Songs_of_Laurence_Hope_No_5_Till_I_Wake.mxl",
+      "source_sha256": "7b9de0cc0717f96d46de5e01fdfa0a9837a4f02168b6c551c40399c05cbfb4c9",
+      "row_count": 120,
+      "labeled_count": 119,
+      "abstention_count": 1,
+      "elapsed_ms": 16141.384
+    },
+    {
+      "index": 40,
+      "file": "040_C_cile_Chaminade_Amoroso.mxl",
+      "source_sha256": "0334583d6e12074b4a78719e9a5b678e3952621b092482b295e293412c8095c3",
+      "row_count": 69,
+      "labeled_count": 69,
+      "abstention_count": 0,
+      "elapsed_ms": 17907.273
+    },
+    {
+      "index": 41,
+      "file": "041_C_cile_Chaminade_Berceuse.mxl",
+      "source_sha256": "04c8cd741e2f845187d8d25da5622c8dca6da4a3dfc8f74ae3a804fd588f4c24",
+      "row_count": 102,
+      "labeled_count": 102,
+      "abstention_count": 0,
+      "elapsed_ms": 18229.869
+    },
+    {
+      "index": 42,
+      "file": "042_C_cile_Chaminade_Sur_la_plage.mxl",
+      "source_sha256": "52267c35e6cd2ce284b19e2deb65533b2b7143e3a91ff3d81975769ffb5c43c8",
+      "row_count": 59,
+      "labeled_count": 59,
+      "abstention_count": 0,
+      "elapsed_ms": 14552.584
+    },
+    {
+      "index": 43,
+      "file": "043_Ernest_Chausson_7_M_lodies_Op_2_7_Le_Colibri.mxl",
+      "source_sha256": "50720573d3dd2a11b91f7c3e4e0602f172a856cc08aeaa50a1ba8ec596f8f3b4",
+      "row_count": 57,
+      "labeled_count": 57,
+      "abstention_count": 0,
+      "elapsed_ms": 17496.865
+    },
+    {
+      "index": 44,
+      "file": "044_Samuel_Coleridge_Taylor_6_Sorrow_Songs_Op_57_No_1_Oh_what_comes_.mxl",
+      "source_sha256": "2c79d255c07d021a6908c26b4aecec0426893337492fc76246d942fea6741b0b",
+      "row_count": 62,
+      "labeled_count": 62,
+      "abstention_count": 0,
+      "elapsed_ms": 12836.016
+    },
+    {
+      "index": 45,
+      "file": "045_Samuel_Coleridge_Taylor_6_Sorrow_Songs_Op_57_No_2_When_I_am_dead.mxl",
+      "source_sha256": "87cb8c0a67df2aa2a014d7ffd2b3fbfc79a77d54b7d8c9d66334f43f8724aaef",
+      "row_count": 111,
+      "labeled_count": 111,
+      "abstention_count": 0,
+      "elapsed_ms": 14241.435
+    },
+    {
+      "index": 46,
+      "file": "046_Samuel_Coleridge_Taylor_6_Sorrow_Songs_Op_57_No_3_Oh_Roses_for_t.mxl",
+      "source_sha256": "95c71eb9afb24a6da124ad0b8db7c56ec50880065f0fb11f93d50a84b82c5ec5",
+      "row_count": 57,
+      "labeled_count": 57,
+      "abstention_count": 0,
+      "elapsed_ms": 12605.972
+    },
+    {
+      "index": 47,
+      "file": "047_Samuel_Coleridge_Taylor_6_Sorrow_Songs_Op_57_No_4_She_sat_and_sa.mxl",
+      "source_sha256": "44f889a3a24f07bae057cbd7cdac7043fb1c66c435c87a3427ca53160f701012",
+      "row_count": 88,
+      "labeled_count": 88,
+      "abstention_count": 0,
+      "elapsed_ms": 9573.475
+    },
+    {
+      "index": 48,
+      "file": "048_Samuel_Coleridge_Taylor_6_Sorrow_Songs_Op_57_No_5_Unmindful_of_t.mxl",
+      "source_sha256": "328b60207fe859f78ffe03e7591e146ec6598d230b176e2696f2b96dc3125bb2",
+      "row_count": 68,
+      "labeled_count": 68,
+      "abstention_count": 0,
+      "elapsed_ms": 10330.605
+    },
+    {
+      "index": 49,
+      "file": "049_Samuel_Coleridge_Taylor_6_Sorrow_Songs_Op_57_No_6_Too_late_for_l.mxl",
+      "source_sha256": "f5532633a34960125ee40be477029686454b414cce74069f66ca945541216a33",
+      "row_count": 186,
+      "labeled_count": 186,
+      "abstention_count": 0,
+      "elapsed_ms": 13682.02
+    },
+    {
+      "index": 50,
+      "file": "050_S_Coleridge_Taylor_Oh_the_Summer.mxl",
+      "source_sha256": "9783dca22e5e92698042ca516d0f9f63952a85e4d63a5af90607c46dbc8069d2",
+      "row_count": 177,
+      "labeled_count": 177,
+      "abstention_count": 0,
+      "elapsed_ms": 13705.573
+    },
+    {
+      "index": 51,
+      "file": "051_Robert_Franz_6_Ges_nge_Op_14_5_Liebesfr_hling.mxl",
+      "source_sha256": "4a9e5724da574861e2fa9e27111d37a7e398ed9535f728720ac852206548bdb1",
+      "row_count": 45,
+      "labeled_count": 45,
+      "abstention_count": 0,
+      "elapsed_ms": 7589.25
+    },
+    {
+      "index": 52,
+      "file": "052_Fanny_Mendelssohn_Hensel_3_Lieder_No_1_Sehnsucht.mxl",
+      "source_sha256": "007bb104dadbeb92fe868cd5492016794f252ff59ff64b1b72a4fc4f9946d63a",
+      "row_count": 36,
+      "labeled_count": 36,
+      "abstention_count": 0,
+      "elapsed_ms": 7043.577
+    },
+    {
+      "index": 53,
+      "file": "053_Fanny_Mendelssohn_Hensel_3_Lieder_No_2_Verlust.mxl",
+      "source_sha256": "f09e187817a1a90f7c5201d5de1eeaa993924190448b9eb7c4daa119b6620891",
+      "row_count": 106,
+      "labeled_count": 106,
+      "abstention_count": 0,
+      "elapsed_ms": 8045.502
+    },
+    {
+      "index": 54,
+      "file": "054_Fanny_Mendelssohn_Hensel_3_Lieder_No_3_Die_Nonne.mxl",
+      "source_sha256": "a4e836876f8b5a8a77f4c146f65d7ef819c9a818dac2dfacd1e46361cdae1531",
+      "row_count": 37,
+      "labeled_count": 36,
+      "abstention_count": 1,
+      "elapsed_ms": 7561.975
+    },
+    {
+      "index": 55,
+      "file": "055_Fanny_Mendelssohn_Hensel_5_Lieder_Op_10_No_1_Nach_S_den.mxl",
+      "source_sha256": "4ab204b2d38435180646fe1a5a4b0ead696c925bd4a6f9b19bce2ffb9799536e",
+      "row_count": 136,
+      "labeled_count": 136,
+      "abstention_count": 0,
+      "elapsed_ms": 10040.831
+    },
+    {
+      "index": 56,
+      "file": "056_Fanny_Mendelssohn_Hensel_5_Lieder_Op_10_2_Vorwurf.mxl",
+      "source_sha256": "2c6f32b85dec09b98508d74f34154e54cce9270f1d840416028ae47f679ae1db",
+      "row_count": 92,
+      "labeled_count": 90,
+      "abstention_count": 2,
+      "elapsed_ms": 9194.31
+    },
+    {
+      "index": 57,
+      "file": "057_Fanny_Mendelssohn_Hensel_5_Lieder_Op_10_No_3_Abendbild.mxl",
+      "source_sha256": "6a4d978619896cb7d1fd36ed9531c00f29408bba3148865076b51c4fb75192d2",
+      "row_count": 76,
+      "labeled_count": 76,
+      "abstention_count": 0,
+      "elapsed_ms": 8456.109
+    },
+    {
+      "index": 58,
+      "file": "058_Fanny_Mendelssohn_Hensel_5_Lieder_Op_10_No_4_Im_Herbste.mxl",
+      "source_sha256": "ed4bab232f720f9b343a8a550cfa81b6c857e7f97dba777d393905fb59b33b01",
+      "row_count": 89,
+      "labeled_count": 89,
+      "abstention_count": 0,
+      "elapsed_ms": 8840.536
+    },
+    {
+      "index": 59,
+      "file": "059_Fanny_Mendelssohn_Hensel_5_Lieder_Op_10_No_5_Bergeslust.mxl",
+      "source_sha256": "1f2ba6d957f740930a2a694cb43a68bb33563ce1d9a8d0e3304ea3073440f647",
+      "row_count": 113,
+      "labeled_count": 110,
+      "abstention_count": 3,
+      "elapsed_ms": 8844.207
+    },
+    {
+      "index": 60,
+      "file": "060_Fanny_Mendelssohn_Hensel_6_Lieder_Op_1_No_1_Schwanenlied.mxl",
+      "source_sha256": "e15d3d70c64ff9169037321e664c5b59f6b0ac81f7af84668a1a53fc0573bbfc",
+      "row_count": 96,
+      "labeled_count": 96,
+      "abstention_count": 0,
+      "elapsed_ms": 9520.424
+    },
+    {
+      "index": 61,
+      "file": "061_Fanny_Mendelssohn_Hensel_6_Lieder_No_2_Wanderlied.mxl",
+      "source_sha256": "d33d2b7c06933fe27214d440e890cf62877d10a517e1bc4bec41da3e44ef80f6",
+      "row_count": 55,
+      "labeled_count": 55,
+      "abstention_count": 0,
+      "elapsed_ms": 8327.018
+    },
+    {
+      "index": 62,
+      "file": "062_Fanny_Mendelssohn_Hensel_6_Lieder_Op_1_No_3_Warum_sind_denn_die_.mxl",
+      "source_sha256": "cf529e2e60d540cab1efb4de02c2693da929e86a6be902d90347f58f022ff0fc",
+      "row_count": 67,
+      "labeled_count": 67,
+      "abstention_count": 0,
+      "elapsed_ms": 8552.189
+    },
+    {
+      "index": 63,
+      "file": "063_Fanny_Mendelssohn_Hensel_6_Lieder_Op_1.mxl",
+      "source_sha256": "597f67d712da2e51fd3aa089b21643a4e7cb0630def5acbd4ae1af0bbf09b3ce",
+      "row_count": 74,
+      "labeled_count": 74,
+      "abstention_count": 0,
+      "elapsed_ms": 7862.004
+    },
+    {
+      "index": 64,
+      "file": "064_Fanny_Mendelssohn_Hensel_6_Lieder_Op_1.mxl",
+      "source_sha256": "0f42731c66ce144a7b0b2e6b4faca3f8d42f9d70ebf1fb561272906698a690b9",
+      "row_count": 77,
+      "labeled_count": 75,
+      "abstention_count": 2,
+      "elapsed_ms": 6218.04
+    },
+    {
+      "index": 65,
+      "file": "065_Fanny_Mendelssohn_Hensel_6_Lieder_Op_1_No_6_Gondellied.mxl",
+      "source_sha256": "89c13c9e12a73931ce0648f1c3fb4e907c4676ef04892345eb93df8d0aed06f7",
+      "row_count": 56,
+      "labeled_count": 56,
+      "abstention_count": 0,
+      "elapsed_ms": 6253.16
+    },
+    {
+      "index": 66,
+      "file": "066_Fanny_Mendelssohn_Hensel_6_Lieder_No_1_Die_Ersehnte.mxl",
+      "source_sha256": "fa24e8157900582b36e42bd1d8d9dfdf5f275e93c607b48fa57cdb7f8b302e52",
+      "row_count": 45,
+      "labeled_count": 45,
+      "abstention_count": 0,
+      "elapsed_ms": 5265.783
+    },
+    {
+      "index": 67,
+      "file": "067_Fanny_Mendelssohn_Hensel_6_Lieder_Op_9_No_2_Ferne.mxl",
+      "source_sha256": "8626ca8f5c305c5bdfe01d7c3b6ab399014349aff826e1aa64f3d3ccd893441f",
+      "row_count": 24,
+      "labeled_count": 24,
+      "abstention_count": 0,
+      "elapsed_ms": 4078.261
+    },
+    {
+      "index": 68,
+      "file": "068_Fanny_Mendelssohn_Hensel_6_Lieder_Op_9_No_3_Der_Rosenkranz.mxl",
+      "source_sha256": "a4d6bc515b4c47b3300424ef29dccd252a68f58c80f56b2deb4de02fcc575996",
+      "row_count": 106,
+      "labeled_count": 106,
+      "abstention_count": 0,
+      "elapsed_ms": 6182.844
+    },
+    {
+      "index": 69,
+      "file": "069_Fanny_Mendelssohn_Hensel_6_Lieder_No_4_Die_fr_hen_Gr_ber.mxl",
+      "source_sha256": "804bd74949a79248ed8d0ec2920d073bfaa32001bc50541ac5d50eb16b83383a",
+      "row_count": 36,
+      "labeled_count": 36,
+      "abstention_count": 0,
+      "elapsed_ms": 5675.552
+    },
+    {
+      "index": 70,
+      "file": "070_Fanny_Mendelssohn_Hensel_6_Lieder_Op_9_No_5_Der_Maiabend.mxl",
+      "source_sha256": "7b948fb69135c1205c5d6366a38b6ea85bfa22303e804eee1442c52f6162b3dc",
+      "row_count": 22,
+      "labeled_count": 22,
+      "abstention_count": 0,
+      "elapsed_ms": 6101.491
+    },
+    {
+      "index": 71,
+      "file": "071_Fanny_Mendelssohn_Hensel_6_Lieder_Op_9_No_6_Die_Mainacht.mxl",
+      "source_sha256": "db049687c9e6b25fd739740c81f36e33cdf8127469b0c023c262c20bebcf3dab",
+      "row_count": 41,
+      "labeled_count": 41,
+      "abstention_count": 0,
+      "elapsed_ms": 6066.484
+    },
+    {
+      "index": 72,
+      "file": "072_Holm_s_Augusta_Contes_divins_No_3_Le_Chemin_du_Ciel.mxl",
+      "source_sha256": "eb0b50656ce057cbe0937c584737b6e094cd5e3486a369555ada68232904e6e9",
+      "row_count": 140,
+      "labeled_count": 140,
+      "abstention_count": 0,
+      "elapsed_ms": 8246.261
+    },
+    {
+      "index": 73,
+      "file": "073_Augusta_Holm_s_Les_Heures_No_4_L_Heure_d_Azur.mxl",
+      "source_sha256": "cfefabe314d48a63bff19237da36ef1cdfb61c723702ac146b8fb44ebdb30824",
+      "row_count": 99,
+      "labeled_count": 99,
+      "abstention_count": 0,
+      "elapsed_ms": 7132.216
+    },
+    {
+      "index": 74,
+      "file": "074_Marie_Ja_ll_4_M_lodies_No_1_A_toi.mxl",
+      "source_sha256": "20755d2568e5211c6b23a43e839a93d8edfe630155aae9132aba281ff53b36b7",
+      "row_count": 40,
+      "labeled_count": 40,
+      "abstention_count": 0,
+      "elapsed_ms": 4621.239
+    },
+    {
+      "index": 75,
+      "file": "075_Marie_Ja_ll_4_M_lodies_No_2_Eternel_amour.mxl",
+      "source_sha256": "0f7199077f44737b931ef347798ebc1fd11b3469e53a2d7937013e615f738987",
+      "row_count": 85,
+      "labeled_count": 85,
+      "abstention_count": 0,
+      "elapsed_ms": 5385.388
+    },
+    {
+      "index": 76,
+      "file": "076_Johanna_Kinkel_originally_published_under_the_name_J_Mathieux_6_.mxl",
+      "source_sha256": "94b33456effe04af740f5e54f53f227d4b82f02067d469c6028359848c2a509f",
+      "row_count": 22,
+      "labeled_count": 22,
+      "abstention_count": 0,
+      "elapsed_ms": 5251.468
+    },
+    {
+      "index": 77,
+      "file": "077_Johanna_Kinkel_1846_edition_originally_published_under_the_name_.mxl",
+      "source_sha256": "089219da5708f9f11b2cdfbb3acd86cb2a352388970e500fa4690841a8b19c01",
+      "row_count": 121,
+      "labeled_count": 121,
+      "abstention_count": 0,
+      "elapsed_ms": 7955.014
+    },
+    {
+      "index": 78,
+      "file": "078_Mathilde_Kralik_Mathilde_Aloisia_Kralik_von_Meyrswalden_Blumenli.mxl",
+      "source_sha256": "5406750d1bc28a85bc67c0f0293f1dcdf45d77384539070af114a25b70233204",
+      "row_count": 56,
+      "labeled_count": 56,
+      "abstention_count": 0,
+      "elapsed_ms": 7096.339
+    },
+    {
+      "index": 79,
+      "file": "079_Josephine_Lang_3_Lieder_Op_8_No_1_Schmetterling.mxl",
+      "source_sha256": "70fb030723df9533479a51c0a7570913a6bd356b64a979d629ea8e363227dee2",
+      "row_count": 111,
+      "labeled_count": 109,
+      "abstention_count": 2,
+      "elapsed_ms": 7443.371
+    },
+    {
+      "index": 80,
+      "file": "080_Josephine_Lang_6_Lieder_Op_10_No_6_Abschied.mxl",
+      "source_sha256": "92585a8ae4bde150c431a9fa56cb7f51b10659aac3497f79771c623c03762d07",
+      "row_count": 76,
+      "labeled_count": 76,
+      "abstention_count": 0,
+      "elapsed_ms": 7490.41
+    },
+    {
+      "index": 81,
+      "file": "081_Josephine_Lang_6_Lieder_Op_12_No_3_Abermals_am_See.mxl",
+      "source_sha256": "b01db3feb57cdd1064cfa552221e916371586fb7ddd3d2b5ba85ef178b97b656",
+      "row_count": 145,
+      "labeled_count": 145,
+      "abstention_count": 0,
+      "elapsed_ms": 7642.093
+    },
+    {
+      "index": 82,
+      "file": "082_Josephine_Lang_6_Lieder_Op_13_No_3_Aus_der_Ferne.mxl",
+      "source_sha256": "1cfb71d1d9883c22ef7b8c525f70864fe2cb80d1321df80ac61e5b7dfd6c7938",
+      "row_count": 55,
+      "labeled_count": 55,
+      "abstention_count": 0,
+      "elapsed_ms": 5633.645
+    },
+    {
+      "index": 83,
+      "file": "083_Josephine_Lang_Sechs_Lieder_Op_25_4_Lied_Immer_sich_rein_kindlic.mxl",
+      "source_sha256": "3a47251af71cb8392ec1de9328afc9f9d06b221cc803e2d7a3674e39acc78d76",
+      "row_count": 128,
+      "labeled_count": 128,
+      "abstention_count": 0,
+      "elapsed_ms": 8607.547
+    },
+    {
+      "index": 84,
+      "file": "084_Josephine_Lang_6_Lieder_Op_26_No_1_Wiegenlied.mxl",
+      "source_sha256": "48c521b2064511923792aa52f4a283b418293f3cfc9442b57385ddae8dd718d6",
+      "row_count": 128,
+      "labeled_count": 128,
+      "abstention_count": 0,
+      "elapsed_ms": 7141.349
+    },
+    {
+      "index": 85,
+      "file": "085_Gustav_Mahler_Kindertotenlieder_No_2_Nun_seh_ich_wohl_warum_so_d.mxl",
+      "source_sha256": "72278536c809fc226a886190ef385437442543043c2aa9faaa20030e862352c8",
+      "row_count": 125,
+      "labeled_count": 123,
+      "abstention_count": 2,
+      "elapsed_ms": 8250.275
+    },
+    {
+      "index": 86,
+      "file": "086_Gustav_Mahler_Kindertotenlieder_No_4_Oft_denk_ich_sie_sind_nur_a.mxl",
+      "source_sha256": "bab26c75e4b6d048cc4af9bf14b86f17ba08c928d6c87c0c9163ca73d4bd3e63",
+      "row_count": 97,
+      "labeled_count": 96,
+      "abstention_count": 1,
+      "elapsed_ms": 7081.002
+    },
+    {
+      "index": 87,
+      "file": "087_Emilie_Mayer_3_Lieder_Op_7_No_1_Du_bist_wie_eine_Blume.mxl",
+      "source_sha256": "c5d02fe0ac1b196bcba6cbafb35ebba0d45c12f7bc8804e23effa845851878d3",
+      "row_count": 57,
+      "labeled_count": 57,
+      "abstention_count": 0,
+      "elapsed_ms": 5338.889
+    },
+    {
+      "index": 88,
+      "file": "088_Emilie_Mayer_3_Lieder_Op_7_No_2_O_lass_mich_dein_gedenken.mxl",
+      "source_sha256": "3f58fb55bca0bac070f378fe9b6be94370051ca131cd413d3a6b4dc3edb57a97",
+      "row_count": 76,
+      "labeled_count": 76,
+      "abstention_count": 0,
+      "elapsed_ms": 6917.075
+    },
+    {
+      "index": 89,
+      "file": "089_Emilie_Mayer_3_Lieder_Op_7_No_3_Wenn_der_Abendstern_die_Rosen.mxl",
+      "source_sha256": "dbfaff005ad7b440949e681488ef6e150b904e0d08a5fc4accb985510b2d7716",
+      "row_count": 98,
+      "labeled_count": 98,
+      "abstention_count": 0,
+      "elapsed_ms": 8109.215
+    },
+    {
+      "index": 90,
+      "file": "090_Maria_Theresia_von_Paradis_12_Lieder_1786_alternative_title_Zw_l.mxl",
+      "source_sha256": "29d3f63a0cc405871cbf82b4a7671d7a1e42e458eeeca17bb48890f1dbc07281",
+      "row_count": 26,
+      "labeled_count": 25,
+      "abstention_count": 1,
+      "elapsed_ms": 4596.164
+    },
+    {
+      "index": 91,
+      "file": "091_Louise_Reichardt_Sechs_Lieder_von_Novalis.mxl",
+      "source_sha256": "2c21bfb3a644571c678af79ebc23f6b85e81dc0b446c75341d24b8c758739684",
+      "row_count": 31,
+      "labeled_count": 31,
+      "abstention_count": 0,
+      "elapsed_ms": 5080.827
+    },
+    {
+      "index": 92,
+      "file": "092_Louise_Reichardt_Sechs_Lieder_von_Novalis_Op_4_5_Noch_ein_Bergma.mxl",
+      "source_sha256": "980651c3f31d996825b1c2478585bdb5b638240fbc5bc85a82dbe416afe16a45",
+      "row_count": 11,
+      "labeled_count": 11,
+      "abstention_count": 0,
+      "elapsed_ms": 5362.726
+    },
+    {
+      "index": 93,
+      "file": "093_Louise_Reichardt_Sechs_Lieder_von_Novalis_No_6_Er_besucht_den_Kl.mxl",
+      "source_sha256": "10af65889c65dfff96f56dca92c52ff718ec366d378da9065561e294c8149fac",
+      "row_count": 31,
+      "labeled_count": 31,
+      "abstention_count": 0,
+      "elapsed_ms": 5983.755
+    },
+    {
+      "index": 94,
+      "file": "094_Louise_Reichardt_12_Deutsche_und_Itali_nische_Romantische_Ges_ng.mxl",
+      "source_sha256": "7b8d770725f7abea6cfce0eea441ba39445c1ca907ac1774b3d223e18c8c5ff8",
+      "row_count": 12,
+      "labeled_count": 12,
+      "abstention_count": 0,
+      "elapsed_ms": 5113.792
+    },
+    {
+      "index": 95,
+      "file": "095_Louise_Reichardt_12_Deutsche_und_Itali_nische_Romantische_Ges_ng.mxl",
+      "source_sha256": "0c7e101381122ee3ba9fe4acec9f1f013ddc5ac345d08e33b30483a564f5a36c",
+      "row_count": 27,
+      "labeled_count": 27,
+      "abstention_count": 0,
+      "elapsed_ms": 4190.682
+    },
+    {
+      "index": 96,
+      "file": "096_Louise_Reichardt_Zw_lf_Deutsche_und_Itali_nische_Romantische_Ges.mxl",
+      "source_sha256": "348746cd28a3bad7f48c2bd3f1fc019ab598a344ea2ad7961839021d20b89653",
+      "row_count": 31,
+      "labeled_count": 31,
+      "abstention_count": 0,
+      "elapsed_ms": 4902.269
+    },
+    {
+      "index": 97,
+      "file": "097_Louise_Reichardt_Zw_lf_Deutsche_und_Itali_nische_Romantische_Ges.mxl",
+      "source_sha256": "9579bef562adb771cd8260cb1c3cdf62813672f62415d2a3844bf1c1c6bda04a",
+      "row_count": 63,
+      "labeled_count": 63,
+      "abstention_count": 0,
+      "elapsed_ms": 5891.018
+    },
+    {
+      "index": 98,
+      "file": "098_Louise_Reichardt_Zw_lf_Deutsche_und_Itali_nische_Romantische_Ges.mxl",
+      "source_sha256": "bcb1a273668be0f6f45df7d3b53a14f0ddd7c7098b411bffa1cd7feba4651b7a",
+      "row_count": 21,
+      "labeled_count": 21,
+      "abstention_count": 0,
+      "elapsed_ms": 5054.326
+    },
+    {
+      "index": 99,
+      "file": "099_Louise_Reichardt_Zw_lf_Ges_nge_Op_3_No_1_Fr_hlingsblumen.mxl",
+      "source_sha256": "7d28ede09ae7887e57ca5c4ccfdc136a9430573f17c9880b13631b30289ab620",
+      "row_count": 64,
+      "labeled_count": 64,
+      "abstention_count": 0,
+      "elapsed_ms": 4727.76
+    },
+    {
+      "index": 100,
+      "file": "100_Louise_Reichardt_Zw_lf_Ges_nge_Op_3_No_2_Der_traurige_Wanderer.mxl",
+      "source_sha256": "93df18f681e90ae03e1f95cc250ae69d1e0db029dbf43f0ecd20b582976d8796",
+      "row_count": 56,
+      "labeled_count": 56,
+      "abstention_count": 0,
+      "elapsed_ms": 4058.358
+    },
+    {
+      "index": 101,
+      "file": "101_Louise_Reichardt_Zw_lf_Ges_nge_No_3_Die_Blume_der_Blumen.mxl",
+      "source_sha256": "7fc80236345cf167403b6f3308e92be771a1263546d03ab3adc09a4b6dbfcb01",
+      "row_count": 30,
+      "labeled_count": 30,
+      "abstention_count": 0,
+      "elapsed_ms": 4264.659
+    },
+    {
+      "index": 102,
+      "file": "102_Louise_Reichardt_Zw_lf_Ges_nge_Op_3_No_4_Wachtelwacht.mxl",
+      "source_sha256": "dcee3b3732255f49fd9aa3962cb93931452c1e093a0df867a39ad7110074b81c",
+      "row_count": 31,
+      "labeled_count": 30,
+      "abstention_count": 1,
+      "elapsed_ms": 4165.106
+    },
+    {
+      "index": 103,
+      "file": "103_Louise_Reichardt_Zw_lf_Ges_nge_No_5_Betteley_der_V_gel.mxl",
+      "source_sha256": "269ce173c4436563f6ad3a92ace293c6902a1c6189af769cfc35feb1aeb56f30",
+      "row_count": 29,
+      "labeled_count": 29,
+      "abstention_count": 0,
+      "elapsed_ms": 4114.843
+    },
+    {
+      "index": 104,
+      "file": "104_Louise_Reichardt_Zw_lf_Ges_nge_Op_3_No_6_Kriegslied_des_Mays.mxl",
+      "source_sha256": "fec327220640ffa8c2f9d4abe53b89f0841504de60714522cbcf5277c3b69bfd",
+      "row_count": 16,
+      "labeled_count": 16,
+      "abstention_count": 0,
+      "elapsed_ms": 3259.351
+    },
+    {
+      "index": 105,
+      "file": "105_Louise_Reichardt_Zw_lf_Ges_nge_No_7_Die_Wiese.mxl",
+      "source_sha256": "d731ee235b4b26d410a41d442768b64a8e389504366bb2495ee2c1f0446722e9",
+      "row_count": 22,
+      "labeled_count": 21,
+      "abstention_count": 1,
+      "elapsed_ms": 3294.167
+    },
+    {
+      "index": 106,
+      "file": "106_Louise_Reichardt_Zw_lf_Ges_nge_Op_3_No_8_Kaeuzlein.mxl",
+      "source_sha256": "ae44aa24fec00d6576392d7c7bf5db87c89c80fe4f6ac55a639a44bb157067e4",
+      "row_count": 39,
+      "labeled_count": 39,
+      "abstention_count": 0,
+      "elapsed_ms": 3354.951
+    },
+    {
+      "index": 107,
+      "file": "107_Louise_Reichardt_Zw_lf_Ges_nge_Op_3_No_9_Hier_liegt_ein_Spielman.mxl",
+      "source_sha256": "8816f1b7a59e3cb48feb1f67e7967c6b7940de5e1f4a52bb6b4a633ad1ce9fa0",
+      "row_count": 44,
+      "labeled_count": 44,
+      "abstention_count": 0,
+      "elapsed_ms": 4014.053
+    },
+    {
+      "index": 108,
+      "file": "108_Louise_Reichardt_Zw_lf_Ges_nge_Op_3_No_10_Der_Mond.mxl",
+      "source_sha256": "942c216343fb7e4e3477d138796fdae9c0875108ab5db9effdfe4422e6ba743c",
+      "row_count": 29,
+      "labeled_count": 29,
+      "abstention_count": 0,
+      "elapsed_ms": 3170.437
+    },
+    {
+      "index": 109,
+      "file": "109_Louise_Reichardt_Zw_lf_Ges_nge_No_11_An_Maria_aus_Novalis_geistl.mxl",
+      "source_sha256": "03a648131f48c70c05b0cee7a994366076591698085a0589ccba2cf188a39ed0",
+      "row_count": 27,
+      "labeled_count": 27,
+      "abstention_count": 0,
+      "elapsed_ms": 3451.768
+    },
+    {
+      "index": 110,
+      "file": "110_Louise_Reichardt_Zw_lf_Ges_nge_Op_3_No_12_Duettino.mxl",
+      "source_sha256": "4ef7ca49eb522030ab436b1613610b557f21236f6c5a2b5e75ea5f82452daeb8",
+      "row_count": 65,
+      "labeled_count": 62,
+      "abstention_count": 3,
+      "elapsed_ms": 4725.691
+    },
+    {
+      "index": 111,
+      "file": "111_Louise_Reichardt_Zw_lf_Ges_nge_No_1_Erinnrung_am_Bach.mxl",
+      "source_sha256": "47c4e5e6b6143857fd9b0f6865d1ecaabe032078e37e89e219125617b194d2cb",
+      "row_count": 28,
+      "labeled_count": 28,
+      "abstention_count": 0,
+      "elapsed_ms": 3296.673
+    },
+    {
+      "index": 112,
+      "file": "112_Louise_Reichardt_Zw_lf_Ges_nge_No_2_Der_S_nger_geht.mxl",
+      "source_sha256": "72dfcc9a137c9b5d3b30c2d3c2e2de741ec1f31cdd246891010b5b4f306c74dc",
+      "row_count": 53,
+      "labeled_count": 53,
+      "abstention_count": 0,
+      "elapsed_ms": 4282.498
+    },
+    {
+      "index": 113,
+      "file": "113_Louise_Reichardt_Zw_lf_Ges_nge_No_3_Nach_Sevilla.mxl",
+      "source_sha256": "53f34cd1216b353dc7895237c96f1a6b83329e8b0a3e427958078c4fe33630ca",
+      "row_count": 16,
+      "labeled_count": 16,
+      "abstention_count": 0,
+      "elapsed_ms": 3132.594
+    },
+    {
+      "index": 114,
+      "file": "114_Louise_Reichardt_Zw_lf_Ges_nge_No_4_Vaters_Klage.mxl",
+      "source_sha256": "7f5de618c492f0e3b4536b0979509922fa5f9dcf098ee12b69bc90f9cd1eb15c",
+      "row_count": 26,
+      "labeled_count": 26,
+      "abstention_count": 0,
+      "elapsed_ms": 2999.506
+    },
+    {
+      "index": 115,
+      "file": "115_Louise_Reichardt_Zw_lf_Ges_nge_No_5_F_r_die_Laute_componirt.mxl",
+      "source_sha256": "f0cdbceb80ab546fe21ab0ac774533790c50d12b87001d9e92e955ac83ce2f98",
+      "row_count": 16,
+      "labeled_count": 16,
+      "abstention_count": 0,
+      "elapsed_ms": 2753.284
+    },
+    {
+      "index": 116,
+      "file": "116_Louise_Reichardt_Zw_lf_Ges_nge_No_6_Unruhiger_Schlaf.mxl",
+      "source_sha256": "cbd8a08596415a3bf14ae12391f67fa5dd9d9a3400a24732aca0d087d80947b5",
+      "row_count": 23,
+      "labeled_count": 23,
+      "abstention_count": 0,
+      "elapsed_ms": 2999.22
+    },
+    {
+      "index": 117,
+      "file": "117_Louise_Reichardt_Zw_lf_Ges_nge_No_7_Volkslied.mxl",
+      "source_sha256": "fbb75d101f2580c0e9500bba0c11313e68d0bfe048562c8eada7b4f2811ea16d",
+      "row_count": 11,
+      "labeled_count": 11,
+      "abstention_count": 0,
+      "elapsed_ms": 2824.753
+    },
+    {
+      "index": 118,
+      "file": "118_Louise_Reichardt_Zw_lf_Ges_nge_No_8_Ein_recht_Gem_th.mxl",
+      "source_sha256": "3d16818f3a2931fe9099f476f72dc8469f6f2158d057a3d6f098defc54af4278",
+      "row_count": 37,
+      "labeled_count": 37,
+      "abstention_count": 0,
+      "elapsed_ms": 3175.241
+    },
+    {
+      "index": 119,
+      "file": "119_Louise_Reichardt_Zw_lf_Ges_nge_No_9_Der_Spinnerin_Nachtlied.mxl",
+      "source_sha256": "2f868532bdf87fd0b1aa12300f2788b555cfe24554c0fcecbe97fa24d5f22bf2",
+      "row_count": 11,
+      "labeled_count": 11,
+      "abstention_count": 0,
+      "elapsed_ms": 2891.879
+    },
+    {
+      "index": 120,
+      "file": "120_Louise_Reichardt_Zw_lf_Ges_nge_No_10_Die_Veilchen.mxl",
+      "source_sha256": "e95ab5e9841bfdcdbffd3593d0627c667945e2a33c8888f279178dbb7556cdf9",
+      "row_count": 35,
+      "labeled_count": 35,
+      "abstention_count": 0,
+      "elapsed_ms": 2807.507
+    },
+    {
+      "index": 121,
+      "file": "121_Louise_Reichardt_Zw_lf_Ges_nge_No_11_Daphne_am_Bach.mxl",
+      "source_sha256": "3c9f0f8364ee2a11be2f8003a47dcde69d03c64b5ec577e0f6896a5435303e64",
+      "row_count": 25,
+      "labeled_count": 25,
+      "abstention_count": 0,
+      "elapsed_ms": 3191.468
+    },
+    {
+      "index": 122,
+      "file": "122_Schubert_Die_Sterne_Op_96_No_1_D_939.mxl",
+      "source_sha256": "ddf371050e7c060b0c6995ea1396cb194bca8695bbfea4d6b0895d7373fb65b7",
+      "row_count": 151,
+      "labeled_count": 151,
+      "abstention_count": 0,
+      "elapsed_ms": 6380.932
+    },
+    {
+      "index": 123,
+      "file": "123_Franz_Schubert_Das_Rosenband.mxl",
+      "source_sha256": "9c1ae71fb22db997d9513813be1a261764cbb9cc8b8ac689111f1b4d63a7638c",
+      "row_count": 61,
+      "labeled_count": 61,
+      "abstention_count": 0,
+      "elapsed_ms": 3656.924
+    },
+    {
+      "index": 124,
+      "file": "124_Franz_Schubert_Die_sch_ne_M_llerin_D_795_No_1_Das_Wandern.mxl",
+      "source_sha256": "5ed3494557a252ff4c343590d9ffb0a648c6efc543e8eb980a162994eb92d406",
+      "row_count": 27,
+      "labeled_count": 27,
+      "abstention_count": 0,
+      "elapsed_ms": 3121.061
+    },
+    {
+      "index": 125,
+      "file": "125_Franz_Schubert_Die_sch_ne_M_llerin_No_2_Wohin.mxl",
+      "source_sha256": "108dc81ac31ac2155904a965f7c50f9b787026c89299fb32c345c1c6c55b1a3f",
+      "row_count": 91,
+      "labeled_count": 91,
+      "abstention_count": 0,
+      "elapsed_ms": 4382.826
+    },
+    {
+      "index": 126,
+      "file": "126_Franz_Schubert_Die_sch_ne_M_llerin_D_795_12_Pause.mxl",
+      "source_sha256": "d17877bd28c5c7c62d8bb793739520f13c0e15c17b6b37f058791867cdfbeb5b",
+      "row_count": 115,
+      "labeled_count": 115,
+      "abstention_count": 0,
+      "elapsed_ms": 5445.203
+    },
+    {
+      "index": 127,
+      "file": "127_Franz_Schubert_Die_sch_ne_M_llerin_D_795_No_18_Trockne_Blumen.mxl",
+      "source_sha256": "5b48d196bb91569df7508f9176d25fd5f88c9a3dec87c0004ae6d25c760f48f3",
+      "row_count": 84,
+      "labeled_count": 84,
+      "abstention_count": 0,
+      "elapsed_ms": 4575.179
+    },
+    {
+      "index": 128,
+      "file": "128_work_128.mxl",
+      "source_sha256": "891575960407e0cbf4b343e4603e76cf7cf4375d92bb2ba66539e68f96d9c43a",
+      "row_count": 111,
+      "labeled_count": 111,
+      "abstention_count": 0,
+      "elapsed_ms": 4947.607
+    },
+    {
+      "index": 129,
+      "file": "129_Franz_Schubert_Op_59_No_3_Du_bist_die_Ruh.mxl",
+      "source_sha256": "c59b0759332ef0dd373c8f90b5e991319366de18f27aa37d5d005a8eeab2dcf8",
+      "row_count": 89,
+      "labeled_count": 89,
+      "abstention_count": 0,
+      "elapsed_ms": 4117.201
+    },
+    {
+      "index": 130,
+      "file": "130_Franz_Schubert_Schwanengesang_D_957_No_1_Liebesbotschaft.mxl",
+      "source_sha256": "400afdf2388ebbe11277d2d55306d4c74ab40f0f2ad9755d446c893e6fc7c8d3",
+      "row_count": 105,
+      "labeled_count": 105,
+      "abstention_count": 0,
+      "elapsed_ms": 4690.502
+    },
+    {
+      "index": 131,
+      "file": "131_Franz_Schubert_Schwanengesang_D_957_No_2_Kriegers_Ahnung.mxl",
+      "source_sha256": "3bd83ad8751b9f6ae368d839ce10e7cdac774b449b503a6233120ba524829f2c",
+      "row_count": 181,
+      "labeled_count": 178,
+      "abstention_count": 3,
+      "elapsed_ms": 5681.141
+    },
+    {
+      "index": 132,
+      "file": "132_Franz_Schubert_Schwanengesang_No_3_Fr_hlingssehnsucht.mxl",
+      "source_sha256": "c10f89824ada07eb34b73f0c151ddd030738390db8bbe9edeb65fe9225af3890",
+      "row_count": 132,
+      "labeled_count": 132,
+      "abstention_count": 0,
+      "elapsed_ms": 4816.268
+    },
+    {
+      "index": 133,
+      "file": "133_Franz_Schubert_Schwanengesang_No_4_St_ndchen.mxl",
+      "source_sha256": "f094cb4601b9c786509ea95b892be739cbf3bc2e2f4542c51951a3bf5ab520c2",
+      "row_count": 96,
+      "labeled_count": 96,
+      "abstention_count": 0,
+      "elapsed_ms": 4205.717
+    },
+    {
+      "index": 134,
+      "file": "134_Franz_Schubert_Schwanengesang_D_957_5_Aufenthalt.mxl",
+      "source_sha256": "ba2b2bfc729e71054cf90d37778a98c6e0c60ca75b2f440e9e7c71c6ea1c3d7f",
+      "row_count": 148,
+      "labeled_count": 144,
+      "abstention_count": 4,
+      "elapsed_ms": 5080.783
+    },
+    {
+      "index": 135,
+      "file": "135_Franz_Schubert_Schwanengesang_No_6_In_der_Ferne.mxl",
+      "source_sha256": "758f895cc26606c0163516f01848767df94d9fb29b6eeedebb4c40530e544908",
+      "row_count": 143,
+      "labeled_count": 143,
+      "abstention_count": 0,
+      "elapsed_ms": 5212.21
+    },
+    {
+      "index": 136,
+      "file": "136_Franz_Schubert_Schwanengesang_D_957_7_Abschied.mxl",
+      "source_sha256": "d4944940ef1c05671b8d2a0122b2ce67159cf2e9d9b7a16d4f2389fa431182da",
+      "row_count": 229,
+      "labeled_count": 229,
+      "abstention_count": 0,
+      "elapsed_ms": 7095.116
+    },
+    {
+      "index": 137,
+      "file": "137_Franz_Schubert_Schwanengesang_No_8_Der_Atlas.mxl",
+      "source_sha256": "9bc1ce454beb86830be49bbe2b58946d0a4beb8e01d0b438479216e2637cc292",
+      "row_count": 72,
+      "labeled_count": 72,
+      "abstention_count": 0,
+      "elapsed_ms": 4509.586
+    },
+    {
+      "index": 138,
+      "file": "138_Franz_Schubert_Schwanengesang_No_9_Ihr_Bild.mxl",
+      "source_sha256": "54bc48a30d547b54c7d13f24483b6145a43df92b03f87838559850918c2222c8",
+      "row_count": 43,
+      "labeled_count": 41,
+      "abstention_count": 2,
+      "elapsed_ms": 3597.703
+    },
+    {
+      "index": 139,
+      "file": "139_Franz_Schubert_Schwanengesang_D_957_No_10_Das_Fischerm_dchen.mxl",
+      "source_sha256": "2d262064c2655683f1955b50d91bb6e5920d0642f6cff58b9781bb76a4745c48",
+      "row_count": 118,
+      "labeled_count": 118,
+      "abstention_count": 0,
+      "elapsed_ms": 4891.566
+    },
+    {
+      "index": 140,
+      "file": "140_Franz_Schubert_Schwanengesang_No_11_Die_Stadt.mxl",
+      "source_sha256": "0f4cc982a1f5539e7d4eb0f448c6a513d87e776c96a39f6c88d06c76d5c521af",
+      "row_count": 35,
+      "labeled_count": 35,
+      "abstention_count": 0,
+      "elapsed_ms": 3842.243
+    },
+    {
+      "index": 141,
+      "file": "141_Franz_Schubert_Schwanengesang_D_957_12_Am_Meer.mxl",
+      "source_sha256": "68e0e8de6f8e96dc089569b716bd45c71753b5c600cd2ca2cf76ee78c9e60009",
+      "row_count": 57,
+      "labeled_count": 57,
+      "abstention_count": 0,
+      "elapsed_ms": 4332.878
+    },
+    {
+      "index": 142,
+      "file": "142_Franz_Schubert_Schwanengesang_D_957_13_Der_Doppelg_nger.mxl",
+      "source_sha256": "8caecde446aa20853d57fdcc9ce21d9f8f3796e6d3a4177bd2fe8e3732f86125",
+      "row_count": 61,
+      "labeled_count": 58,
+      "abstention_count": 3,
+      "elapsed_ms": 4008.976
+    },
+    {
+      "index": 143,
+      "file": "143_Franz_Schubert_Schwanengesang_No_14_Die_Taubenpost.mxl",
+      "source_sha256": "8028afd5ad14f872072f994ef3762ecccf3f3095036568a8e405a143e91cc169",
+      "row_count": 132,
+      "labeled_count": 132,
+      "abstention_count": 0,
+      "elapsed_ms": 5398.327
+    },
+    {
+      "index": 144,
+      "file": "144_Franz_Schubert_Winterreise_D_911_1_Gute_Nacht.mxl",
+      "source_sha256": "c1ca4097a3d8aa8836fb9e097058179001463fc19a1d280570364fcf5e6ba563",
+      "row_count": 146,
+      "labeled_count": 146,
+      "abstention_count": 0,
+      "elapsed_ms": 5746.384
+    },
+    {
+      "index": 145,
+      "file": "145_Franz_Schubert_Winterreise_D_911_2_Die_Wetterfahne.mxl",
+      "source_sha256": "11aa24c1f06e371bdb6f580b49d104ad8c57f4218b54828d566837ccc0f753d7",
+      "row_count": 76,
+      "labeled_count": 61,
+      "abstention_count": 15,
+      "elapsed_ms": 3892.011
+    },
+    {
+      "index": 146,
+      "file": "146_Franz_Schubert_Winterreise_D_911_3_Gefrorne_Traenen.mxl",
+      "source_sha256": "9bf993c4a8ecb53e67bff076c4c5bdaa56a97223159f1704f9b3ac9f8aa356f1",
+      "row_count": 81,
+      "labeled_count": 81,
+      "abstention_count": 0,
+      "elapsed_ms": 4148.111
+    },
+    {
+      "index": 147,
+      "file": "147_Franz_Schubert_Winterreise_D_911_4_Erstarrung.mxl",
+      "source_sha256": "61479cbae30a0889fc6eab15e75f6b797e868702bfdd619e5e7a87d68ceab6b7",
+      "row_count": 185,
+      "labeled_count": 183,
+      "abstention_count": 2,
+      "elapsed_ms": 5627.711
+    },
+    {
+      "index": 148,
+      "file": "148_Franz_Schubert_Winterreise_D_911_5_Der_Lindenbaum.mxl",
+      "source_sha256": "2e34c59329cc421b32efcc9d834ebdcca038486ad5fe5b21a324135d69e90ddb",
+      "row_count": 94,
+      "labeled_count": 93,
+      "abstention_count": 1,
+      "elapsed_ms": 4742.649
+    },
+    {
+      "index": 149,
+      "file": "149_Franz_Schubert_Winterreise_D_911_6_Wasserfluth.mxl",
+      "source_sha256": "2069aedf247210f5574bb05b8768e9b48b15b52a4921d2de266d92fe54ced1a1",
+      "row_count": 44,
+      "labeled_count": 44,
+      "abstention_count": 0,
+      "elapsed_ms": 3985.372
+    },
+    {
+      "index": 150,
+      "file": "150_Franz_Schubert_Winterreise_D_911_7_Auf_dem_Flusse.mxl",
+      "source_sha256": "1eea1a1ec558c06785198bd2f1477d5d6019608d311aa36168889216955faaea",
+      "row_count": 106,
+      "labeled_count": 106,
+      "abstention_count": 0,
+      "elapsed_ms": 4724.578
+    },
+    {
+      "index": 151,
+      "file": "151_Franz_Schubert_Winterreise_D_911_8_R_ckblick.mxl",
+      "source_sha256": "bafb0a1fc589ebb356d26ee25d53634c7cd03669fe211d9897a3d542de65967f",
+      "row_count": 95,
+      "labeled_count": 95,
+      "abstention_count": 0,
+      "elapsed_ms": 5295.875
+    },
+    {
+      "index": 152,
+      "file": "152_Franz_Schubert_Winterreise_D_911_9_Irrlicht.mxl",
+      "source_sha256": "a5f289125c374d851c27aed2633fd7855b5d0036632ca781141c095eefb3f881",
+      "row_count": 60,
+      "labeled_count": 60,
+      "abstention_count": 0,
+      "elapsed_ms": 3665.061
+    },
+    {
+      "index": 153,
+      "file": "153_Franz_Schubert_Winterreise_D_911_10_Rast.mxl",
+      "source_sha256": "22b51282684871ca46294f2b2bcc1c27b257f345294bd46d4ea13b23d2b890cf",
+      "row_count": 86,
+      "labeled_count": 86,
+      "abstention_count": 0,
+      "elapsed_ms": 4012.918
+    },
+    {
+      "index": 154,
+      "file": "154_Franz_Schubert_Winterreise_D_911_11_Fr_hlingstraum.mxl",
+      "source_sha256": "888ceeee93e2f924428039db213d4678ba086e00791845c6e7b442a419d820b9",
+      "row_count": 114,
+      "labeled_count": 113,
+      "abstention_count": 1,
+      "elapsed_ms": 4569.474
+    },
+    {
+      "index": 155,
+      "file": "155_Franz_Schubert_Winterreise_D_911_12_Einsamkeit.mxl",
+      "source_sha256": "84e4606b5b116e2aa1970f8feaf1804d3477e52979077ec15e76e04b00dd8e66",
+      "row_count": 55,
+      "labeled_count": 51,
+      "abstention_count": 4,
+      "elapsed_ms": 3819.175
+    },
+    {
+      "index": 156,
+      "file": "156_Franz_Schubert_Winterreise_D_911_13_Die_Post.mxl",
+      "source_sha256": "d365d75b3d1d9b454a0c4665ac8090f057ba7e5bad7db48fa046da93ebc7dfc5",
+      "row_count": 93,
+      "labeled_count": 93,
+      "abstention_count": 0,
+      "elapsed_ms": 5134.814
+    },
+    {
+      "index": 157,
+      "file": "157_Franz_Schubert_Winterreise_D_911_14_Der_greise_Kopf.mxl",
+      "source_sha256": "f27d79de57fd9b10b04636eadfd30baf0cc7ba423a3f6a2178d2476ee72cb2f1",
+      "row_count": 59,
+      "labeled_count": 57,
+      "abstention_count": 2,
+      "elapsed_ms": 4033.003
+    },
+    {
+      "index": 158,
+      "file": "158_Franz_Schubert_Winterreise_D_911_15_Die_Kr_he.mxl",
+      "source_sha256": "6a760a6a085b8cdbc2f7ed570a5797dbdd604c417bc9ba253c0302f77b2651c4",
+      "row_count": 61,
+      "labeled_count": 61,
+      "abstention_count": 0,
+      "elapsed_ms": 3921.917
+    },
+    {
+      "index": 159,
+      "file": "159_Franz_Schubert_Winterreise_D_911_16_Letzte_Hoffnung.mxl",
+      "source_sha256": "382de693e36a2caa2eb8773675945a802e34716c9e61072a9591535588c520bb",
+      "row_count": 72,
+      "labeled_count": 69,
+      "abstention_count": 3,
+      "elapsed_ms": 3727.504
+    },
+    {
+      "index": 160,
+      "file": "160_Franz_Schubert_Winterreise_D_911_17_Im_Dorfe.mxl",
+      "source_sha256": "28b202863dd7dcf77d742f8a111bca607421da8ee042f613ba0c78ee2c8e6c58",
+      "row_count": 67,
+      "labeled_count": 65,
+      "abstention_count": 2,
+      "elapsed_ms": 4938.083
+    },
+    {
+      "index": 161,
+      "file": "161_Franz_Schubert_Winterreise_D_911_18_Der_st_rmische_Morgen.mxl",
+      "source_sha256": "5eee6eea8ddf421d91f82bbb0bfc52d28d45757ce7aea4082e7890b21b232e58",
+      "row_count": 29,
+      "labeled_count": 29,
+      "abstention_count": 0,
+      "elapsed_ms": 3632.306
+    },
+    {
+      "index": 162,
+      "file": "162_Franz_Schubert_Winterreise_D_911_19_T_uschung.mxl",
+      "source_sha256": "e860ed7cf5fd671240f1ab08e66ecf23a2409a926cbff6f263898353051faed5",
+      "row_count": 44,
+      "labeled_count": 41,
+      "abstention_count": 3,
+      "elapsed_ms": 3642.524
+    },
+    {
+      "index": 163,
+      "file": "163_Franz_Schubert_Winterreise_D_911_20_Der_Wegweiser.mxl",
+      "source_sha256": "4ee617cc9ac140e0d41416844e323e7a1684ffbb51b149eb3ebbc6d04cd19940",
+      "row_count": 105,
+      "labeled_count": 100,
+      "abstention_count": 5,
+      "elapsed_ms": 4385.614
+    },
+    {
+      "index": 164,
+      "file": "164_Franz_Schubert_Winterreise_D_911_21_Das_Wirtshaus.mxl",
+      "source_sha256": "033323aec47e010f7024735168560d8a282a51b0ee1d124a313aa82873390fff",
+      "row_count": 87,
+      "labeled_count": 87,
+      "abstention_count": 0,
+      "elapsed_ms": 4825.05
+    },
+    {
+      "index": 165,
+      "file": "165_Franz_Schubert_Winterreise_D_911_22_Muth.mxl",
+      "source_sha256": "887be6cb41b5f3d4290de4de421a677d9fdd203e49e767fbb757e6e0a71c0e42",
+      "row_count": 90,
+      "labeled_count": 90,
+      "abstention_count": 0,
+      "elapsed_ms": 4289.192
+    },
+    {
+      "index": 166,
+      "file": "166_Franz_Schubert_Winterreise_D_911_23_Die_Nebensonnen.mxl",
+      "source_sha256": "311231225e0c33461bf86d87fa46c6788b31b28c4d677592caf28933552c9884",
+      "row_count": 51,
+      "labeled_count": 51,
+      "abstention_count": 0,
+      "elapsed_ms": 4044.127
+    },
+    {
+      "index": 167,
+      "file": "167_Franz_Schubert_Winterreise_D_911_24_Der_Leiermann.mxl",
+      "source_sha256": "22f9665b3e1844620e126e1be91b54fe6377c5dde6aeb4d39f8ab42b6f396732",
+      "row_count": 54,
+      "labeled_count": 54,
+      "abstention_count": 0,
+      "elapsed_ms": 4192.121
+    },
+    {
+      "index": 168,
+      "file": "168_Clara_Schumann_6_Lieder_Op_13_No_1_Ich_stand_in_dunklen_Tr_umen.mxl",
+      "source_sha256": "8a0c5f93aa1aa50c1c9b04f9e36a3a28c93ed60500575edb8d2e7b95aacff63c",
+      "row_count": 71,
+      "labeled_count": 71,
+      "abstention_count": 0,
+      "elapsed_ms": 4144.087
+    },
+    {
+      "index": 169,
+      "file": "169_Clara_Schumann_6_Lieder_Op_13_No_2_Sie_liebten_sich_beide.mxl",
+      "source_sha256": "ed4fb377bf7d62ac0c23e958f426dbd5a7601b01c48f7ad342cdc9f610604f6b",
+      "row_count": 69,
+      "labeled_count": 69,
+      "abstention_count": 0,
+      "elapsed_ms": 4265.339
+    },
+    {
+      "index": 170,
+      "file": "170_Clara_Schumann_6_Lieder_Op_13_No_3_Liebeszauber.mxl",
+      "source_sha256": "c51c42a5eee0b00d1c44d4a1242c7e5b4cbaabc4cb16a47058963eb1567d6d48",
+      "row_count": 119,
+      "labeled_count": 119,
+      "abstention_count": 0,
+      "elapsed_ms": 5487.834
+    },
+    {
+      "index": 171,
+      "file": "171_Clara_Schumann_6_Lieder_Op_13_No_4_Der_Mond_kommt_still_gegangen.mxl",
+      "source_sha256": "fd227e800117c852dd0b5d5a981939487e82063a9ba794c882208c380dccbe1d",
+      "row_count": 72,
+      "labeled_count": 72,
+      "abstention_count": 0,
+      "elapsed_ms": 3634.26
+    },
+    {
+      "index": 172,
+      "file": "172_Clara_Schumann_6_Lieder_Op_13_6_Die_stille_Lotosblume.mxl",
+      "source_sha256": "b54c1d64f33946a2170a88f27977d51346e6888d00471d766cf1a8c18b2978b7",
+      "row_count": 69,
+      "labeled_count": 69,
+      "abstention_count": 0,
+      "elapsed_ms": 4463.888
+    },
+    {
+      "index": 173,
+      "file": "173_Clara_Schumann_6_Lieder_Op_23_No_4_Auf_einem_gr_nen_H_gel.mxl",
+      "source_sha256": "7ddad682c4ada79518498142d0145e82c0873843a77652352fc464c3c0963aed",
+      "row_count": 70,
+      "labeled_count": 70,
+      "abstention_count": 0,
+      "elapsed_ms": 3833.19
+    },
+    {
+      "index": 174,
+      "file": "174_Clara_Schumann_Die_gute_Nacht_die_ich_dir_sage.mxl",
+      "source_sha256": "e300506f6ca0c9964dabd55f445a69d1ff34733ebbafd06841b21b997ca0dbc3",
+      "row_count": 70,
+      "labeled_count": 70,
+      "abstention_count": 0,
+      "elapsed_ms": 4147.525
+    },
+    {
+      "index": 175,
+      "file": "175_Clara_Schumann_Lieder_Op_12_No_4_Liebst_du_um_Sch_nheit.mxl",
+      "source_sha256": "65d3d1f8ca2d00237d6760fe99843937c79934438678ea4dd2a7d52072c24151",
+      "row_count": 106,
+      "labeled_count": 105,
+      "abstention_count": 1,
+      "elapsed_ms": 4857.891
+    },
+    {
+      "index": 176,
+      "file": "176_Robert_Schumann_5_Lieder_und_Ges_nge_Op_127_No_2_Dein_Angesicht.mxl",
+      "source_sha256": "4e17db51b5469cf7bb65b74d975a415fd60754baddeba7bc682f0b050e3b0d10",
+      "row_count": 40,
+      "labeled_count": 40,
+      "abstention_count": 0,
+      "elapsed_ms": 3792.951
+    },
+    {
+      "index": 177,
+      "file": "177_Robert_Schumann_Dichterliebe_Op_48_No_1_Im_wundersch_nen_Monat_M.mxl",
+      "source_sha256": "b3bc41d71b8efd5a0ee02d3c2c884576f03d6d781cdd2e4efd0a3ab0ccd59469",
+      "row_count": 41,
+      "labeled_count": 41,
+      "abstention_count": 0,
+      "elapsed_ms": 3479.789
+    },
+    {
+      "index": 178,
+      "file": "178_Robert_Schumann_Dichterliebe_Op_48_No_2_Aus_meinen_Tr_nen_spries.mxl",
+      "source_sha256": "1bbc54be4f2776910a1cf4e3b316b3f51270268f5ce208f31b71a099318a9728",
+      "row_count": 27,
+      "labeled_count": 27,
+      "abstention_count": 0,
+      "elapsed_ms": 3055.718
+    },
+    {
+      "index": 179,
+      "file": "179_Robert_Schumann_Dichterliebe_Op_48_No_3_Die_Rose_die_Lilie_die_T.mxl",
+      "source_sha256": "96344d30e86e3982fd1b5b49efc8d47a4727a2f1983035c1216c368890b705b1",
+      "row_count": 37,
+      "labeled_count": 37,
+      "abstention_count": 0,
+      "elapsed_ms": 3308.777
+    },
+    {
+      "index": 180,
+      "file": "180_Robert_Schumann_Dichterliebe_Op_48_No_4_Wenn_ich_in_deine_Augen_.mxl",
+      "source_sha256": "cfcccab74f2a7b518e6f6a6f8e7250f29817b8d786ecb3476c7d983dc1053938",
+      "row_count": 28,
+      "labeled_count": 28,
+      "abstention_count": 0,
+      "elapsed_ms": 3591.045
+    },
+    {
+      "index": 181,
+      "file": "181_Robert_Schumann_Dichterliebe_Op_48_No_5_Ich_will_meine_Seele_tau.mxl",
+      "source_sha256": "dbf710d673c2f4ef8de24634c176f64ba495da9eff4602c061989021456366bf",
+      "row_count": 36,
+      "labeled_count": 36,
+      "abstention_count": 0,
+      "elapsed_ms": 3671.746
+    },
+    {
+      "index": 182,
+      "file": "182_Robert_Schumann_Dichterliebe_Op_48_6_Im_Rhein_im_heiligen_Strome.mxl",
+      "source_sha256": "5d74d31c36d59a103a809d9666d6a5dfb3064e58c9a91efff98c56f31fe229d4",
+      "row_count": 76,
+      "labeled_count": 75,
+      "abstention_count": 1,
+      "elapsed_ms": 3457.878
+    },
+    {
+      "index": 183,
+      "file": "183_Robert_Schumann_Dichterliebe_Op_48_7_Ich_grolle_nicht.mxl",
+      "source_sha256": "8df9361fb910cd534e573db2455420bf3d3a78f4f9a2df00289e97d10727a067",
+      "row_count": 65,
+      "labeled_count": 65,
+      "abstention_count": 0,
+      "elapsed_ms": 4211.046
+    },
+    {
+      "index": 184,
+      "file": "184_Robert_Schumann_Dichterliebe_Op_48_No_8_Und_w_ssten_s_die_Blumen.mxl",
+      "source_sha256": "3815936ac06f1dc2ce7ad2d6dd7a924bdf34e5e44d586ffcd8338c28f803134e",
+      "row_count": 47,
+      "labeled_count": 47,
+      "abstention_count": 0,
+      "elapsed_ms": 4141.208
+    },
+    {
+      "index": 185,
+      "file": "185_Robert_Schumann_Dichterliebe_Op_48_9_Das_ist_ein_Fl_ten_und_Geig.mxl",
+      "source_sha256": "9e5da2e91a9e7a7228c37b8be351b8ab53b76593ec1b09c3668639690ca0b1b0",
+      "row_count": 117,
+      "labeled_count": 113,
+      "abstention_count": 4,
+      "elapsed_ms": 4783.239
+    },
+    {
+      "index": 186,
+      "file": "186_Robert_Schumann_Dichterliebe_Op_48_No_10_H_r_ich_das_Liedchen_kl.mxl",
+      "source_sha256": "e63940b14110f92fa64e2e1b6b3d29ebb658567538ba67ba6513d055bd98ff81",
+      "row_count": 44,
+      "labeled_count": 44,
+      "abstention_count": 0,
+      "elapsed_ms": 3659.099
+    },
+    {
+      "index": 187,
+      "file": "187_Robert_Schumann_Dichterliebe_Op_48_No_11_Ein_J_ngling_liebt_ein_.mxl",
+      "source_sha256": "6c236d58ceb3dd0e269fc7585785c937e1656c2991fd3354c6837b16e3363402",
+      "row_count": 60,
+      "labeled_count": 60,
+      "abstention_count": 0,
+      "elapsed_ms": 3448.793
+    },
+    {
+      "index": 188,
+      "file": "188_Robert_Schumann_Dichterliebe_Op_48_No_12_Am_leuchtenden_Sommermo.mxl",
+      "source_sha256": "5f095e090ded614226a196f9eef9efe9d2815bb4b7a3db3e118b8e7cc4383a2f",
+      "row_count": 49,
+      "labeled_count": 49,
+      "abstention_count": 0,
+      "elapsed_ms": 3936.041
+    },
+    {
+      "index": 189,
+      "file": "189_Robert_Schumann_Dichterliebe_Op_48_No_13_Ich_hab_im_Traum_gewein.mxl",
+      "source_sha256": "db7877d09b8f8c281d375feec0f1aaa7ad6f5d8f428fe69ed361c24d01886717",
+      "row_count": 49,
+      "labeled_count": 45,
+      "abstention_count": 4,
+      "elapsed_ms": 3751.897
+    },
+    {
+      "index": 190,
+      "file": "190_Robert_Schumann_Dichterliebe_Op_48_14_Alln_chtlich_im_Traume.mxl",
+      "source_sha256": "1e3ab4f0a191bb3a8ac77885a9ee79c8f8b4b2c65c6e8af2b93eac17a448084c",
+      "row_count": 56,
+      "labeled_count": 56,
+      "abstention_count": 0,
+      "elapsed_ms": 4032.393
+    },
+    {
+      "index": 191,
+      "file": "191_Robert_Schumann_Dichterliebe_Op_48_No_15_Aus_alten_M_rchen.mxl",
+      "source_sha256": "c60ce75281047eca8a7366ec9cf25875e816f0097cca2c17cbd55b7c2ab36b2f",
+      "row_count": 152,
+      "labeled_count": 147,
+      "abstention_count": 5,
+      "elapsed_ms": 5047.78
+    },
+    {
+      "index": 192,
+      "file": "192_Robert_Schumann_Dichterliebe_Op_48_No_16_Die_alten_b_sen_Lieder.mxl",
+      "source_sha256": "b7cbb99f16b325474a050cfe65b2e85836f3b33cc7b3c25030016f3d64fd7ab1",
+      "row_count": 127,
+      "labeled_count": 121,
+      "abstention_count": 6,
+      "elapsed_ms": 5363.167
+    },
+    {
+      "index": 193,
+      "file": "193_Robert_Schumann_Frauenliebe_und_Leben_Op_42_1_Seit_ich_ihn_geseh.mxl",
+      "source_sha256": "690755fba20e0139822042ef0e7073f813e3bf9a50fd4d78196f050a327c8020",
+      "row_count": 83,
+      "labeled_count": 83,
+      "abstention_count": 0,
+      "elapsed_ms": 3830.557
+    },
+    {
+      "index": 194,
+      "file": "194_Robert_Schumann_Frauenliebe_und_Leben_3_Ich_kann_s_nicht_fassen_.mxl",
+      "source_sha256": "e1e17652e0ee9341886b4d3aa2641b5ba1319e4c2fc28d9649a8792f3a1c24fc",
+      "row_count": 80,
+      "labeled_count": 80,
+      "abstention_count": 0,
+      "elapsed_ms": 4479.031
+    },
+    {
+      "index": 195,
+      "file": "195_Robert_Schumann_Myrthen_Op_25_No_16_R_tsel.mxl",
+      "source_sha256": "1fc922b513296988cce76b2f74835858a71b09b2ffc9208e58fa4b18268950ba",
+      "row_count": 86,
+      "labeled_count": 86,
+      "abstention_count": 0,
+      "elapsed_ms": 3911.494
+    },
+    {
+      "index": 196,
+      "file": "196_Pauline_Viardot_6_M_lodies_VWV_1133_1137_1176_No_4_S_r_nade_Rosi.mxl",
+      "source_sha256": "10a9d6bafea41b9715b2019f91985e0d01ded440fb57c9aa3b5e2d1d95d4eae3",
+      "row_count": 143,
+      "labeled_count": 143,
+      "abstention_count": 0,
+      "elapsed_ms": 4668.125
+    },
+    {
+      "index": 197,
+      "file": "197_Maude_Val_rie_White_3_Little_Songs_No_1_When_the_Swallows_Homewa.mxl",
+      "source_sha256": "3102e62dbe9644f6e647ecf76d74b848f780451bd471d5b532ca0b74614e9bd1",
+      "row_count": 73,
+      "labeled_count": 73,
+      "abstention_count": 0,
+      "elapsed_ms": 4092.535
+    },
+    {
+      "index": 198,
+      "file": "198_Maude_Val_rie_White_3_Little_Songs_No_2_A_Memory.mxl",
+      "source_sha256": "ee52a1499c32dd57ca3fdefdccd8032baee37c42041da0ef289f5f094a8f4945",
+      "row_count": 69,
+      "labeled_count": 69,
+      "abstention_count": 0,
+      "elapsed_ms": 3877.038
+    },
+    {
+      "index": 199,
+      "file": "199_Hugo_Wolf_Eichendorff_Lieder_No_4_Das_St_ndchen.mxl",
+      "source_sha256": "f25b3a2465945567c6917b9dfb1054c10d370c663471d51c91428e31bbcf895d",
+      "row_count": 91,
+      "labeled_count": 91,
+      "abstention_count": 0,
+      "elapsed_ms": 4576.703
+    },
+    {
+      "index": 200,
+      "file": "200_Hugo_Wolf_Eichendorff_Lieder_No_8_Nachtzauber.mxl",
+      "source_sha256": "388d74af62459cb096bf7b9cb0c7127b817d7e832a8dff440a6ed800ee51f540",
+      "row_count": 133,
+      "labeled_count": 133,
+      "abstention_count": 0,
+      "elapsed_ms": 6034.373
+    },
+    {
+      "index": 201,
+      "file": "201_Hugo_Wolf_Eichendorff_Lieder_13_Der_Scholar.mxl",
+      "source_sha256": "afd5f8ba1ed8f711d01a15a11533d98b0912a7f84c67d37f01dd5d69bf133be9",
+      "row_count": 132,
+      "labeled_count": 132,
+      "abstention_count": 0,
+      "elapsed_ms": 4975.092
+    },
+    {
+      "index": 202,
+      "file": "202_Hugo_Wolf_Eichendorff_Lieder_No_14_Der_verzweifelte_Liebhaber.mxl",
+      "source_sha256": "fbda5822d9a7c36dd95639051417e5996d82fffef3df35e155c73383b61e9851",
+      "row_count": 57,
+      "labeled_count": 57,
+      "abstention_count": 0,
+      "elapsed_ms": 3506.101
+    },
+    {
+      "index": 203,
+      "file": "203_Hugo_Wolf_Eichendorff_Lieder_15_Unfall.mxl",
+      "source_sha256": "cf67fa83b31cbc34e6e039006d8e4e80f6e8d33d756b86176ec6ff2a98193ff1",
+      "row_count": 66,
+      "labeled_count": 66,
+      "abstention_count": 0,
+      "elapsed_ms": 4167.283
+    },
+    {
+      "index": 204,
+      "file": "204_Hugo_Wolf_Eichendorff_Lieder_No_19_Die_Nacht.mxl",
+      "source_sha256": "90ba5fdd995af2b5117c5f5a4ecee741ba21cb233775e937362d89eb4e3cbc3c",
+      "row_count": 59,
+      "labeled_count": 59,
+      "abstention_count": 0,
+      "elapsed_ms": 3917.034
+    },
+    {
+      "index": 205,
+      "file": "205_Hugo_Wolf_Eichendorff_Lieder_No_20_Waldm_dchen.mxl",
+      "source_sha256": "546100665ec649767ae6c5f9d82fcc87cf210eed00afce1abba7d0715694b019",
+      "row_count": 265,
+      "labeled_count": 255,
+      "abstention_count": 10,
+      "elapsed_ms": 8324.5
+    },
+    {
+      "index": 206,
+      "file": "206_Emilie_Zumsteeg_6_Lieder_Op_4_No_1_Die_Kapelle.mxl",
+      "source_sha256": "0f8293bdb58ea235bf2f05bd36c53c46f4c4c63c1c429c491d3c22ffda6884c3",
+      "row_count": 72,
+      "labeled_count": 72,
+      "abstention_count": 0,
+      "elapsed_ms": 3698.486
+    },
+    {
+      "index": 207,
+      "file": "207_Haydn_Symphony_104_Movement_1.mxl",
+      "source_sha256": "a9f82e3e7d25b03983142fd8b85447dee8190b3c9aa07245baf0f4da94eccb9e",
+      "row_count": 394,
+      "labeled_count": 387,
+      "abstention_count": 7,
+      "elapsed_ms": 8537.072
+    },
+    {
+      "index": 208,
+      "file": "208_Mozart_Wolfgang_Amadeus_K279_1.mxl",
+      "source_sha256": "a82cef20389e2a3509510a1a2ef123f8d77f064477180b1230998a88f05ef4ca",
+      "row_count": 196,
+      "labeled_count": 196,
+      "abstention_count": 0,
+      "elapsed_ms": 5335.775
+    },
+    {
+      "index": 209,
+      "file": "209_Mozart_Wolfgang_Amadeus_K279_2.mxl",
+      "source_sha256": "5fe046994cd86498a7855ddc816d7067e32444a0564927ae3544045271f430ea",
+      "row_count": 49,
+      "labeled_count": 49,
+      "abstention_count": 0,
+      "elapsed_ms": 3910.585
+    },
+    {
+      "index": 210,
+      "file": "210_Mozart_Wolfgang_Amadeus_K279_3.mxl",
+      "source_sha256": "c7aed0ae66d600e96e79fa8b9f5cb68d1be29eb17132ae0a65cc33a1986a250f",
+      "row_count": 82,
+      "labeled_count": 82,
+      "abstention_count": 0,
+      "elapsed_ms": 3403.791
+    },
+    {
+      "index": 211,
+      "file": "211_Mozart_Wolfgang_Amadeus_K280_1.mxl",
+      "source_sha256": "beee5adbc7e62950773efe96888f0400e1aae11a5a2d7271b3961aa540384227",
+      "row_count": 213,
+      "labeled_count": 213,
+      "abstention_count": 0,
+      "elapsed_ms": 5001.378
+    },
+    {
+      "index": 212,
+      "file": "212_Mozart_Wolfgang_Amadeus_K280_2.mxl",
+      "source_sha256": "7b612ebea98e8d4f5dd68e6a28aebac9f94493bfceab072788ac7bd778ec8fe8",
+      "row_count": 124,
+      "labeled_count": 124,
+      "abstention_count": 0,
+      "elapsed_ms": 3999.829
+    },
+    {
+      "index": 213,
+      "file": "213_Mozart_Wolfgang_Amadeus_K280_3.mxl",
+      "source_sha256": "6acff3811c7ec6073d47181de44fff090f4387776a8546af1035c7bd3d41bb06",
+      "row_count": 81,
+      "labeled_count": 71,
+      "abstention_count": 10,
+      "elapsed_ms": 3631.904
+    },
+    {
+      "index": 214,
+      "file": "214_Mozart_Wolfgang_Amadeus_K281_1.mxl",
+      "source_sha256": "d00f02a3c319defe00ad8bbb30fe8bb488df18f90528e99f177f35ac98140a92",
+      "row_count": 146,
+      "labeled_count": 146,
+      "abstention_count": 0,
+      "elapsed_ms": 5967.014
+    },
+    {
+      "index": 215,
+      "file": "215_Mozart_Wolfgang_Amadeus_K281_2.mxl",
+      "source_sha256": "0de671acbf7777bccfb6cbb83040c216e6da2740fbfde058c9e8899b16d7d550",
+      "row_count": 140,
+      "labeled_count": 137,
+      "abstention_count": 3,
+      "elapsed_ms": 4068.515
+    },
+    {
+      "index": 216,
+      "file": "216_Mozart_Wolfgang_Amadeus_K281_3.mxl",
+      "source_sha256": "e1b655fc114331cc03130944928a12cadbc58c55a019cf2e7c9c40c480456f29",
+      "row_count": 245,
+      "labeled_count": 239,
+      "abstention_count": 6,
+      "elapsed_ms": 6727.205
+    },
+    {
+      "index": 217,
+      "file": "217_Mozart_Wolfgang_Amadeus_K282_1.mxl",
+      "source_sha256": "70b297578467eb84333179d06f5cccfc688822b2854944ebf57ca1fd77439ebc",
+      "row_count": 80,
+      "labeled_count": 80,
+      "abstention_count": 0,
+      "elapsed_ms": 4485.324
+    },
+    {
+      "index": 218,
+      "file": "218_Mozart_Wolfgang_Amadeus_K282_2.mxl",
+      "source_sha256": "e4e256b67be398b01ff27c893acbea45085d3dd4e3b9f109ff6dc11e1a500218",
+      "row_count": 12,
+      "labeled_count": 9,
+      "abstention_count": 3,
+      "elapsed_ms": 3450.824
+    },
+    {
+      "index": 219,
+      "file": "219_Mozart_Wolfgang_Amadeus_K282_3.mxl",
+      "source_sha256": "e6b50efc364dfead1756bf438becd3ec6664eb5e50223c7d3f124656e2bcd36a",
+      "row_count": 45,
+      "labeled_count": 45,
+      "abstention_count": 0,
+      "elapsed_ms": 3738.887
+    },
+    {
+      "index": 220,
+      "file": "220_Mozart_Wolfgang_Amadeus_K283_1.mxl",
+      "source_sha256": "6c946d451a19e46b3ccdaa17f5e21416b9efc6ced998c7d016ecdd22c56d2738",
+      "row_count": 91,
+      "labeled_count": 91,
+      "abstention_count": 0,
+      "elapsed_ms": 4099.224
+    },
+    {
+      "index": 221,
+      "file": "221_Mozart_Wolfgang_Amadeus_K283_2.mxl",
+      "source_sha256": "c9a6a39afb16addde9a0dd6a7ed8b823dbbd7ffaa434f0a37fd6c4244aa16a58",
+      "row_count": 179,
+      "labeled_count": 179,
+      "abstention_count": 0,
+      "elapsed_ms": 6223.398
+    },
+    {
+      "index": 222,
+      "file": "222_Mozart_Wolfgang_Amadeus_K283_3.mxl",
+      "source_sha256": "da435bbd05f64549b56322e089c28c8fae4cb4d7906938ff72a7e9a25b177b1c",
+      "row_count": 467,
+      "labeled_count": 432,
+      "abstention_count": 35,
+      "elapsed_ms": 8950.724
+    },
+    {
+      "index": 223,
+      "file": "223_Mozart_Wolfgang_Amadeus_K284_1.mxl",
+      "source_sha256": "bf0e24a6fad33358ae09eaeab469c50497504fff37158e1510f5ae20667df850",
+      "row_count": 223,
+      "labeled_count": 220,
+      "abstention_count": 3,
+      "elapsed_ms": 6209.553
+    },
+    {
+      "index": 224,
+      "file": "224_Mozart_Wolfgang_Amadeus_K284_2.mxl",
+      "source_sha256": "217364bc49bf4b87686532f5455eebd8d7e806a0f79f346f235f98f32aee8219",
+      "row_count": 151,
+      "labeled_count": 149,
+      "abstention_count": 2,
+      "elapsed_ms": 6045.626
+    },
+    {
+      "index": 225,
+      "file": "225_Mozart_Wolfgang_Amadeus_K284_3.mxl",
+      "source_sha256": "ea43c70d62a5ff7fae601a00197fb230b9c78566644c6bfe1eb91625e9206cf8",
+      "row_count": 12,
+      "labeled_count": 12,
+      "abstention_count": 0,
+      "elapsed_ms": 5610.685
+    },
+    {
+      "index": 226,
+      "file": "226_Mozart_Wolfgang_Amadeus_K309_1.mxl",
+      "source_sha256": "11b77c4c8b3eaeebcc087c6037a69636f0cd72c796547ecde278c99e0b15ef49",
+      "row_count": 260,
+      "labeled_count": 248,
+      "abstention_count": 12,
+      "elapsed_ms": 5897.579
+    },
+    {
+      "index": 227,
+      "file": "227_Mozart_Wolfgang_Amadeus_K309_2.mxl",
+      "source_sha256": "69fc49cd5559c922f99534ee7a3c4e56776d3e862362eea7db2734687bd29d4c",
+      "row_count": 143,
+      "labeled_count": 142,
+      "abstention_count": 1,
+      "elapsed_ms": 5301.903
+    },
+    {
+      "index": 228,
+      "file": "228_Mozart_Wolfgang_Amadeus_K309_3.mxl",
+      "source_sha256": "58300246d12a7df99f25920a2d29b071f9e7eb424a04fdd0d3a0ca8d1dfc4207",
+      "row_count": 296,
+      "labeled_count": 293,
+      "abstention_count": 3,
+      "elapsed_ms": 9124.947
+    },
+    {
+      "index": 229,
+      "file": "229_Mozart_Wolfgang_Amadeus_K310_1.mxl",
+      "source_sha256": "98505b8c53776aa6e709ea92d14ec88916b5b702775a0b8947c9052f085bf663",
+      "row_count": 269,
+      "labeled_count": 269,
+      "abstention_count": 0,
+      "elapsed_ms": 8474.986
+    },
+    {
+      "index": 230,
+      "file": "230_Mozart_Wolfgang_Amadeus_K310_2.mxl",
+      "source_sha256": "4a98c90411c6fc62798aac38a16937e19161e70cae1c91d0fa138fcda1339940",
+      "row_count": 51,
+      "labeled_count": 51,
+      "abstention_count": 0,
+      "elapsed_ms": 4389.455
+    },
+    {
+      "index": 231,
+      "file": "231_Mozart_Wolfgang_Amadeus_K310_3.mxl",
+      "source_sha256": "b555f74f3512510e2f61fb2e436bae70d143a59224bc3d02259121ad4489343a",
+      "row_count": 334,
+      "labeled_count": 331,
+      "abstention_count": 3,
+      "elapsed_ms": 5480.863
+    },
+    {
+      "index": 232,
+      "file": "232_Mozart_Wolfgang_Amadeus_K311_1.mxl",
+      "source_sha256": "5ce3bd0633a2ef0d7701e83826eed25a02c7cd5369ebbdc1f8f35c9c5c65fb8f",
+      "row_count": 233,
+      "labeled_count": 225,
+      "abstention_count": 8,
+      "elapsed_ms": 6237.883
+    },
+    {
+      "index": 233,
+      "file": "233_Mozart_Wolfgang_Amadeus_K311_2.mxl",
+      "source_sha256": "62dbd6b4f162eb5c8e497a7fceb6316199803685577165938c833a069631a0ef",
+      "row_count": 164,
+      "labeled_count": 164,
+      "abstention_count": 0,
+      "elapsed_ms": 5463.074
+    },
+    {
+      "index": 234,
+      "file": "234_Mozart_Wolfgang_Amadeus_K311_3.mxl",
+      "source_sha256": "0e7cc1d4d35f24064f9a3ad8ba367e163de30600d49e6db02004809ff020cf2b",
+      "row_count": 244,
+      "labeled_count": 210,
+      "abstention_count": 34,
+      "elapsed_ms": 6838.931
+    },
+    {
+      "index": 235,
+      "file": "235_Mozart_Wolfgang_Amadeus_K330_1.mxl",
+      "source_sha256": "08e5a9b35bfa7e09313ef24e214a1abbaf13255dbc842b6f50ddf73becf1b3d7",
+      "row_count": 187,
+      "labeled_count": 185,
+      "abstention_count": 2,
+      "elapsed_ms": 7910.516
+    },
+    {
+      "index": 236,
+      "file": "236_Mozart_Wolfgang_Amadeus_K330_2.mxl",
+      "source_sha256": "2e206d96acf1747e87f88fce13ca73da62572db8d72936ae56309b2b3e0beda1",
+      "row_count": 18,
+      "labeled_count": 18,
+      "abstention_count": 0,
+      "elapsed_ms": 3292.197
+    },
+    {
+      "index": 237,
+      "file": "237_Mozart_Wolfgang_Amadeus_K330_3.mxl",
+      "source_sha256": "50c425e0fd272c3efb07a96170c71a776aa69297162f93ce6d476cca4a2db2b7",
+      "row_count": 227,
+      "labeled_count": 227,
+      "abstention_count": 0,
+      "elapsed_ms": 6136.577
+    },
+    {
+      "index": 238,
+      "file": "238_Mozart_Wolfgang_Amadeus_K331_1.mxl",
+      "source_sha256": "abea041a569b3e4e98151dc3ee47606a1e9e3de26497e50164d6480cfbfe1c44",
+      "row_count": 364,
+      "labeled_count": 349,
+      "abstention_count": 15,
+      "elapsed_ms": 9906.337
+    },
+    {
+      "index": 239,
+      "file": "239_Mozart_Wolfgang_Amadeus_K331_2.mxl",
+      "source_sha256": "eb6b6bf5c0cfacde0b107b0d0995fd29cefa47918dcde68ec5cd16cea6264f54",
+      "row_count": 144,
+      "labeled_count": 135,
+      "abstention_count": 9,
+      "elapsed_ms": 4370.291
+    },
+    {
+      "index": 240,
+      "file": "240_Mozart_Wolfgang_Amadeus_K331_3.mxl",
+      "source_sha256": "879fe9145eb120584d44b0f974edd7abaf328c1b475d7e9224a874f561b944a2",
+      "row_count": 6,
+      "labeled_count": 6,
+      "abstention_count": 0,
+      "elapsed_ms": 3302.168
+    },
+    {
+      "index": 241,
+      "file": "241_Mozart_Wolfgang_Amadeus_K332_1.mxl",
+      "source_sha256": "b3fe49737f564feb19fdeba06cf65927bc369d6704dc7823511a7731c93017ed",
+      "row_count": 259,
+      "labeled_count": 255,
+      "abstention_count": 4,
+      "elapsed_ms": 6150.202
+    },
+    {
+      "index": 242,
+      "file": "242_Mozart_Wolfgang_Amadeus_K332_2.mxl",
+      "source_sha256": "05a780ee3ecfcc5bff83ea92ee9ab51eb6df6fa75e5fb79ddd310fbe51ed5077",
+      "row_count": 91,
+      "labeled_count": 91,
+      "abstention_count": 0,
+      "elapsed_ms": 4749.403
+    },
+    {
+      "index": 243,
+      "file": "243_Mozart_Wolfgang_Amadeus_K332_3.mxl",
+      "source_sha256": "40960bc3b0a937b5cb2d08316e9b859170004d95fff87866085afa008bd2e022",
+      "row_count": 324,
+      "labeled_count": 255,
+      "abstention_count": 69,
+      "elapsed_ms": 6680.573
+    },
+    {
+      "index": 244,
+      "file": "244_Mozart_Wolfgang_Amadeus_K333_1.mxl",
+      "source_sha256": "bbc85aae66ce4db6f359ac8d204dd710f1eab0f2d041811e0370f4f53ee8a94a",
+      "row_count": 114,
+      "labeled_count": 113,
+      "abstention_count": 1,
+      "elapsed_ms": 5944.443
+    },
+    {
+      "index": 245,
+      "file": "245_Mozart_Wolfgang_Amadeus_K333_2.mxl",
+      "source_sha256": "ea4f005df2519e7dd778c82adc871f34b18cfeac2b3ac74b1bfcb0ddca24b4b0",
+      "row_count": 213,
+      "labeled_count": 213,
+      "abstention_count": 0,
+      "elapsed_ms": 8939.388
+    },
+    {
+      "index": 246,
+      "file": "246_Mozart_Wolfgang_Amadeus_K333_3.mxl",
+      "source_sha256": "5530803c66992e02e791cc11f03fef33ce6f59409d8f0ad93f4eb7494b3994de",
+      "row_count": 309,
+      "labeled_count": 308,
+      "abstention_count": 1,
+      "elapsed_ms": 10617.966
+    },
+    {
+      "index": 247,
+      "file": "247_Mozart_Wolfgang_Amadeus_K457_1.mxl",
+      "source_sha256": "4761b150def9f1dbc2792d4c70d81ecfca22fc2facab6078bff87f672b3af801",
+      "row_count": 271,
+      "labeled_count": 254,
+      "abstention_count": 17,
+      "elapsed_ms": 6946.465
+    },
+    {
+      "index": 248,
+      "file": "248_Mozart_Wolfgang_Amadeus_K457_2.mxl",
+      "source_sha256": "af26eb279d3b9e1c25e37a30de72ed571caea27774829b83368eb95eea55598b",
+      "row_count": 142,
+      "labeled_count": 142,
+      "abstention_count": 0,
+      "elapsed_ms": 7665.106
+    },
+    {
+      "index": 249,
+      "file": "249_Mozart_Wolfgang_Amadeus_K457_3.mxl",
+      "source_sha256": "0f3eb7bc196eba0fc5d42fb6c23e4cfbb892cfa3874ca25a41494a44d09c5f8b",
+      "row_count": 351,
+      "labeled_count": 342,
+      "abstention_count": 9,
+      "elapsed_ms": 5494.82
+    },
+    {
+      "index": 250,
+      "file": "250_Mozart_Wolfgang_Amadeus_K533_1.mxl",
+      "source_sha256": "9655764312d850c7bff5ab344be2e3f23c889349dab0227c888ecd686d866c91",
+      "row_count": 136,
+      "labeled_count": 136,
+      "abstention_count": 0,
+      "elapsed_ms": 5360.962
+    },
+    {
+      "index": 251,
+      "file": "251_Mozart_Wolfgang_Amadeus_K533_2.mxl",
+      "source_sha256": "3b1bd15e9cba788a3d87d2c25cd036e4c86bf08aef05d5cc97b0e52d34559a4f",
+      "row_count": 210,
+      "labeled_count": 206,
+      "abstention_count": 4,
+      "elapsed_ms": 6201.515
+    },
+    {
+      "index": 252,
+      "file": "252_Mozart_Wolfgang_Amadeus_K533_3.mxl",
+      "source_sha256": "8201f8eb2916e99b799bc43e3da824b9417f8b055ecece15406e1e41681d15ad",
+      "row_count": 318,
+      "labeled_count": 316,
+      "abstention_count": 2,
+      "elapsed_ms": 10027.666
+    },
+    {
+      "index": 253,
+      "file": "253_Mozart_Wolfgang_Amadeus_K545_1.mxl",
+      "source_sha256": "cb60569e7752d436dbcb93ad2a6dd1f26a3e1d9b65f2ddfd9531edae2501773e",
+      "row_count": 128,
+      "labeled_count": 126,
+      "abstention_count": 2,
+      "elapsed_ms": 4382.006
+    },
+    {
+      "index": 254,
+      "file": "254_Mozart_Wolfgang_Amadeus_K545_2.mxl",
+      "source_sha256": "4a425c8c257656518028d32949fce334f55eb646f9636dd0155c7d56431677a6",
+      "row_count": 137,
+      "labeled_count": 137,
+      "abstention_count": 0,
+      "elapsed_ms": 4457.608
+    },
+    {
+      "index": 255,
+      "file": "255_Mozart_Wolfgang_Amadeus_K545_3.mxl",
+      "source_sha256": "67d018cd468388cebcc86f69953203b729e864a15fad4587e6cec9956672ecd2",
+      "row_count": 113,
+      "labeled_count": 112,
+      "abstention_count": 1,
+      "elapsed_ms": 4020.471
+    },
+    {
+      "index": 256,
+      "file": "256_Mozart_Wolfgang_Amadeus_K570_1.mxl",
+      "source_sha256": "600b694401a5cbdb275d0615df0b64ff4750242bc0999b265cf4aeb20c6a20c1",
+      "row_count": 261,
+      "labeled_count": 236,
+      "abstention_count": 25,
+      "elapsed_ms": 5441.686
+    },
+    {
+      "index": 257,
+      "file": "257_Mozart_Wolfgang_Amadeus_K570_2.mxl",
+      "source_sha256": "a39f19e3282fc166148a46ccea62e68f8d53eb7794c69565de36e36ccd170ef0",
+      "row_count": 167,
+      "labeled_count": 167,
+      "abstention_count": 0,
+      "elapsed_ms": 5258.559
+    },
+    {
+      "index": 258,
+      "file": "258_Mozart_Wolfgang_Amadeus_K570_3.mxl",
+      "source_sha256": "7e65a083a2d93e4d5c7a290842ca03cceebefcf4ebc4426f7314522e8e672b7e",
+      "row_count": 85,
+      "labeled_count": 85,
+      "abstention_count": 0,
+      "elapsed_ms": 3638.975
+    },
+    {
+      "index": 259,
+      "file": "259_Mozart_Wolfgang_Amadeus_K576_1.mxl",
+      "source_sha256": "2671c725ad55b0763b2dc47754d184025a97a8af47548e3baaf898c2419a19a5",
+      "row_count": 83,
+      "labeled_count": 78,
+      "abstention_count": 5,
+      "elapsed_ms": 3813.138
+    },
+    {
+      "index": 260,
+      "file": "260_Mozart_Wolfgang_Amadeus_K576_2.mxl",
+      "source_sha256": "5cd267b1664800aac7f8013b1b00970e52af9f7004e8856623523f8c6b6afba9",
+      "row_count": 140,
+      "labeled_count": 139,
+      "abstention_count": 1,
+      "elapsed_ms": 5387.993
+    },
+    {
+      "index": 261,
+      "file": "261_Mozart_Wolfgang_Amadeus_K576_3.mxl",
+      "source_sha256": "071469ececccdd5f52e3837433c0d62d1c68916ef53a7d85d42ba875b4f6b4ec",
+      "row_count": 280,
+      "labeled_count": 280,
+      "abstention_count": 0,
+      "elapsed_ms": 7022.359
+    },
+    {
+      "index": 262,
+      "file": "262_Beethoven_Ludwig_van_n01op18_1_01.mxl",
+      "source_sha256": "40a61973ce6566414a60aa4a3a885da2c20be56b494570463036608280b7d8ba",
+      "row_count": 610,
+      "labeled_count": 592,
+      "abstention_count": 18,
+      "elapsed_ms": 16136.266
+    },
+    {
+      "index": 263,
+      "file": "263_Beethoven_Ludwig_van_n01op18_1_02.mxl",
+      "source_sha256": "677a7f039f9af9e6d45340c90ad8509a36f194139a681aa2f2b8a38684960682",
+      "row_count": 263,
+      "labeled_count": 260,
+      "abstention_count": 3,
+      "elapsed_ms": 8143.465
+    },
+    {
+      "index": 264,
+      "file": "264_Beethoven_Ludwig_van_n01op18_1_03.mxl",
+      "source_sha256": "ba839b5e55e134815cd113aed80bc9e7e8c9d6131b1a8a10b2aa0547d52dd5c3",
+      "row_count": 283,
+      "labeled_count": 277,
+      "abstention_count": 6,
+      "elapsed_ms": 5897.897
+    },
+    {
+      "index": 265,
+      "file": "265_Beethoven_Ludwig_van_n01op18_1_04.mxl",
+      "source_sha256": "fd305e8a85da97f428fbeeeb65c5d68f869d1932451ed01ad49ab82bc0415e11",
+      "row_count": 505,
+      "labeled_count": 500,
+      "abstention_count": 5,
+      "elapsed_ms": 16295.397
+    },
+    {
+      "index": 266,
+      "file": "266_Beethoven_Ludwig_van_n02op18_2_01.mxl",
+      "source_sha256": "245706a57b456b1713de731e0bfa9718518d5f1d57f3bda29866103538a91a4d",
+      "row_count": 333,
+      "labeled_count": 330,
+      "abstention_count": 3,
+      "elapsed_ms": 8146.93
+    },
+    {
+      "index": 267,
+      "file": "267_Beethoven_Ludwig_van_n02op18_2_02.mxl",
+      "source_sha256": "0a708af9fb5a7cde5c8b42bc261bc953ef98b6d8c657e9886793b2678fd68773",
+      "row_count": 43,
+      "labeled_count": 43,
+      "abstention_count": 0,
+      "elapsed_ms": 3614.963
+    },
+    {
+      "index": 268,
+      "file": "268_Beethoven_Ludwig_van_n02op18_2_03.mxl",
+      "source_sha256": "cb6e3a8eb51073e195990e3d724184354e159d27998eaa318efd0e3889762a2d",
+      "row_count": 9,
+      "labeled_count": 9,
+      "abstention_count": 0,
+      "elapsed_ms": 3081.119
+    },
+    {
+      "index": 269,
+      "file": "269_Beethoven_Ludwig_van_n02op18_2_04.mxl",
+      "source_sha256": "50d7a5f43ab235cce5d3b7c773a9dfe2b49a0ef5caa614982dc41a68f3e029f0",
+      "row_count": 459,
+      "labeled_count": 454,
+      "abstention_count": 5,
+      "elapsed_ms": 10161.025
+    },
+    {
+      "index": 270,
+      "file": "270_Beethoven_Ludwig_van_n03op18_3_01.mxl",
+      "source_sha256": "71a26badfbc6508c88181b61af476b2676cfd2d15ab134afa1d8e7cf3ca8a9ab",
+      "row_count": 471,
+      "labeled_count": 467,
+      "abstention_count": 4,
+      "elapsed_ms": 12432.949
+    },
+    {
+      "index": 271,
+      "file": "271_Beethoven_Ludwig_van_n03op18_3_02.mxl",
+      "source_sha256": "8ffd9f1107a13cb701ea76a50db1ff902dbef93cf0e12a53f94ca7242e83cb86",
+      "row_count": 226,
+      "labeled_count": 225,
+      "abstention_count": 1,
+      "elapsed_ms": 7443.677
+    },
+    {
+      "index": 272,
+      "file": "272_Beethoven_Ludwig_van_n03op18_3_03.mxl",
+      "source_sha256": "c87e27e40d7bce676143085f528d97573482023854b1a25d2e72da75052daeed",
+      "row_count": 14,
+      "labeled_count": 14,
+      "abstention_count": 0,
+      "elapsed_ms": 2962.189
+    },
+    {
+      "index": 273,
+      "file": "273_Beethoven_Ludwig_van_n03op18_3_04.mxl",
+      "source_sha256": "043f82cf9c6d974955792d153535a6af21891391b98bcdaed923a4e6a28e2206",
+      "row_count": 720,
+      "labeled_count": 689,
+      "abstention_count": 31,
+      "elapsed_ms": 15934.663
+    },
+    {
+      "index": 274,
+      "file": "274_Beethoven_Ludwig_van_n04op18_4_01.mxl",
+      "source_sha256": "fa6945212760010c790237f443fd5e86d8038a92f0149db4d62bc4603adf917c",
+      "row_count": 819,
+      "labeled_count": 807,
+      "abstention_count": 12,
+      "elapsed_ms": 19852.871
+    },
+    {
+      "index": 275,
+      "file": "275_Beethoven_Ludwig_van_n04op18_4_02.mxl",
+      "source_sha256": "103254acc1d0f530d240ff58a1b9931e158acaa4052ceb44b91db7e613cf17b3",
+      "row_count": 319,
+      "labeled_count": 308,
+      "abstention_count": 11,
+      "elapsed_ms": 7441.082
+    },
+    {
+      "index": 276,
+      "file": "276_Beethoven_Ludwig_van_n04op18_4_03.mxl",
+      "source_sha256": "2cac33cfc9b607a40a1291910946bdfda4d589700d650a10c4f8e300ee947992",
+      "row_count": 17,
+      "labeled_count": 17,
+      "abstention_count": 0,
+      "elapsed_ms": 3227.697
+    },
+    {
+      "index": 277,
+      "file": "277_Beethoven_Ludwig_van_n04op18_4_04.mxl",
+      "source_sha256": "fe385aef692ca5525f8e212bf91d88376dae47de9ec9f4d3ab0e8cd8ff65745d",
+      "row_count": 8,
+      "labeled_count": 8,
+      "abstention_count": 0,
+      "elapsed_ms": 3029.927
+    },
+    {
+      "index": 278,
+      "file": "278_Beethoven_Ludwig_van_n05op18_5_01.mxl",
+      "source_sha256": "df7ced968577e2cba8d44322285cb7403147072b622bf88831fc2d0dd314d91c",
+      "row_count": 706,
+      "labeled_count": 642,
+      "abstention_count": 64,
+      "elapsed_ms": 10916.041
+    },
+    {
+      "index": 279,
+      "file": "279_Beethoven_Ludwig_van_n05op18_5_02.mxl",
+      "source_sha256": "6262df61298b27073a8b4d473ca63cc643b70eff76b3468602069e8d53c4740c",
+      "row_count": 158,
+      "labeled_count": 148,
+      "abstention_count": 10,
+      "elapsed_ms": 3944.274
+    },
+    {
+      "index": 280,
+      "file": "280_Beethoven_Ludwig_van_n05op18_5_03.mxl",
+      "source_sha256": "745fdf582dc31d0cf89dfaef04017ec2bc8b07f04d319bfd7fc74284f35fe9fb",
+      "row_count": 7,
+      "labeled_count": 7,
+      "abstention_count": 0,
+      "elapsed_ms": 2793.333
+    },
+    {
+      "index": 281,
+      "file": "281_Beethoven_Ludwig_van_n05op18_5_04.mxl",
+      "source_sha256": "97627e927542d55441d0e8092fbfd2382f2728b93b29f43f1fabd02765d503ac",
+      "row_count": 122,
+      "labeled_count": 122,
+      "abstention_count": 0,
+      "elapsed_ms": 4495.897
+    },
+    {
+      "index": 282,
+      "file": "282_Beethoven_Ludwig_van_n06op18_6_01.mxl",
+      "source_sha256": "3e2b3243ebfb0863673b9957625b5e998503841062ceadf8a7f605cdb94b74b8",
+      "row_count": 569,
+      "labeled_count": 567,
+      "abstention_count": 2,
+      "elapsed_ms": 18096.668
+    },
+    {
+      "index": 283,
+      "file": "283_Beethoven_Ludwig_van_n06op18_6_02.mxl",
+      "source_sha256": "0f390185c027cbe34ad81de80ae1f0fcfb73d00f9f469c62868c801910d110b9",
+      "row_count": 110,
+      "labeled_count": 110,
+      "abstention_count": 0,
+      "elapsed_ms": 7530.487
+    },
+    {
+      "index": 284,
+      "file": "284_Beethoven_Ludwig_van_n06op18_6_03.mxl",
+      "source_sha256": "b0a3a8adb1b0e399ea4c685580e47342f924ae57b579a5913f23fffd6a2baed1",
+      "row_count": 14,
+      "labeled_count": 14,
+      "abstention_count": 0,
+      "elapsed_ms": 3438.382
+    },
+    {
+      "index": 285,
+      "file": "285_Beethoven_Ludwig_van_n06op18_6_04.mxl",
+      "source_sha256": "162d22842823b68095d9d8c13776405d4cdc8086931569fe26ab154ed375af84",
+      "row_count": 431,
+      "labeled_count": 421,
+      "abstention_count": 10,
+      "elapsed_ms": 10584.987
+    },
+    {
+      "index": 286,
+      "file": "286_Beethoven_Ludwig_van_n07op59_1_01.mxl",
+      "source_sha256": "748ae7bcaf29a18b2b6189ca41b07a7c9644834a6d478f6bdcd8e379c29375fb",
+      "row_count": 607,
+      "labeled_count": 596,
+      "abstention_count": 11,
+      "elapsed_ms": 18977.584
+    },
+    {
+      "index": 287,
+      "file": "287_Beethoven_Ludwig_van_n07op59_1_02.mxl",
+      "source_sha256": "d5ef7a243739297dced4d21a896806657784dc5be5a7e07b49011b0ed4c951bc",
+      "row_count": 605,
+      "labeled_count": 594,
+      "abstention_count": 11,
+      "elapsed_ms": 14638.363
+    },
+    {
+      "index": 288,
+      "file": "288_Beethoven_Ludwig_van_n07op59_1_03.mxl",
+      "source_sha256": "e27b563b2e3afb7400107a11e05c92460ebf12f92ec0795e49570d7c952ee076",
+      "row_count": 216,
+      "labeled_count": 215,
+      "abstention_count": 1,
+      "elapsed_ms": 8250.613
+    },
+    {
+      "index": 289,
+      "file": "289_Beethoven_Ludwig_van_n07op59_1_04.mxl",
+      "source_sha256": "bf1caa430728571b6a3770d3ee72c3d7cf87c86d884ea70268bfb77643fcef22",
+      "row_count": 586,
+      "labeled_count": 578,
+      "abstention_count": 8,
+      "elapsed_ms": 17663.431
+    },
+    {
+      "index": 290,
+      "file": "290_Beethoven_Ludwig_van_n08op59_2_01.mxl",
+      "source_sha256": "0cd899778a5ddf3bb58a7c1becf14cd707f32eb64a9309ae4a92befa1e9870d9",
+      "row_count": 751,
+      "labeled_count": 720,
+      "abstention_count": 31,
+      "elapsed_ms": 23981.138
+    },
+    {
+      "index": 291,
+      "file": "291_Beethoven_Ludwig_van_n08op59_2_02.mxl",
+      "source_sha256": "48c0cf815e9d921528564bdf63564e29e39b343a59d78fa334e46fdcfa40876b",
+      "row_count": 311,
+      "labeled_count": 311,
+      "abstention_count": 0,
+      "elapsed_ms": 8650.617
+    },
+    {
+      "index": 292,
+      "file": "292_Beethoven_Ludwig_van_n08op59_2_03.mxl",
+      "source_sha256": "35731091e0204d3f81a4f96a698eed4a304feaf4b6bd6218acf7117a044aa1d3",
+      "row_count": 230,
+      "labeled_count": 224,
+      "abstention_count": 6,
+      "elapsed_ms": 5607.74
+    },
+    {
+      "index": 293,
+      "file": "293_Beethoven_Ludwig_van_n08op59_2_04.mxl",
+      "source_sha256": "7b1a1052f1d3d1cecd3628d540425f3d54317760ef2441ffa46f099042e32724",
+      "row_count": 474,
+      "labeled_count": 466,
+      "abstention_count": 8,
+      "elapsed_ms": 12001.284
+    },
+    {
+      "index": 294,
+      "file": "294_Beethoven_Ludwig_van_n09op59_3_01.mxl",
+      "source_sha256": "7f560dab518af3632b7046a870302c4cb92aae21bdb8709d934b202c2565445d",
+      "row_count": 313,
+      "labeled_count": 299,
+      "abstention_count": 14,
+      "elapsed_ms": 9880.044
+    },
+    {
+      "index": 295,
+      "file": "295_Beethoven_Ludwig_van_n09op59_3_02.mxl",
+      "source_sha256": "7d4beae1f067d630fa3c9ce1227427f1f28810d3faf4b1035e80be75539b3fc1",
+      "row_count": 91,
+      "labeled_count": 86,
+      "abstention_count": 5,
+      "elapsed_ms": 4135.285
+    },
+    {
+      "index": 296,
+      "file": "296_Beethoven_Ludwig_van_n09op59_3_03.mxl",
+      "source_sha256": "97cec7b6a8d700a725fc514822840103dbc44192b2789e157a8c9af1e5d1dff9",
+      "row_count": 205,
+      "labeled_count": 204,
+      "abstention_count": 1,
+      "elapsed_ms": 4614.49
+    },
+    {
+      "index": 297,
+      "file": "297_Beethoven_Ludwig_van_n09op59_3_04.mxl",
+      "source_sha256": "4df764f85137bb0199a863a3ec6a26d97b4c2d9f461facabdcab9758088bdb84",
+      "row_count": 538,
+      "labeled_count": 527,
+      "abstention_count": 11,
+      "elapsed_ms": 14626.266
+    },
+    {
+      "index": 298,
+      "file": "298_Beethoven_Ludwig_van_n10op74_01.mxl",
+      "source_sha256": "6b92749fbe41e4bfdb8ef83545c9e3198614300c4616eab2adfe9bdaa7d39c8a",
+      "row_count": 432,
+      "labeled_count": 431,
+      "abstention_count": 1,
+      "elapsed_ms": 12093.244
+    },
+    {
+      "index": 299,
+      "file": "299_Beethoven_Ludwig_van_n10op74_02.mxl",
+      "source_sha256": "aebde1ba36674057e1b526f0c1ca51e989826debefc322e52ee5174d28f2d55b",
+      "row_count": 263,
+      "labeled_count": 260,
+      "abstention_count": 3,
+      "elapsed_ms": 6550.308
+    },
+    {
+      "index": 300,
+      "file": "300_Beethoven_Ludwig_van_n10op74_03.mxl",
+      "source_sha256": "7c78eacbd081b93378c9d983b35c033496610f734ba59e77b396ab8f2c023ec5",
+      "row_count": 15,
+      "labeled_count": 15,
+      "abstention_count": 0,
+      "elapsed_ms": 4741.478
+    },
+    {
+      "index": 301,
+      "file": "301_Beethoven_Ludwig_van_n10op74_04.mxl",
+      "source_sha256": "c869d132aa688a68b0f9b4298271f5a13823d47b6306a119cb158ccb2528644e",
+      "row_count": 11,
+      "labeled_count": 11,
+      "abstention_count": 0,
+      "elapsed_ms": 2939.77
+    },
+    {
+      "index": 302,
+      "file": "302_Beethoven_Ludwig_van_n11op95_01.mxl",
+      "source_sha256": "cd69d1ad4f8f903cfceb618212887b70038ffd26fc56ea7f375408cff5724d08",
+      "row_count": 226,
+      "labeled_count": 225,
+      "abstention_count": 1,
+      "elapsed_ms": 7721.285
+    },
+    {
+      "index": 303,
+      "file": "303_Beethoven_Ludwig_van_n11op95_02.mxl",
+      "source_sha256": "1bf75e1b04e0696b4685c19ac1566d74b609479123d13b57d5448ed744202c12",
+      "row_count": 254,
+      "labeled_count": 251,
+      "abstention_count": 3,
+      "elapsed_ms": 6686.826
+    },
+    {
+      "index": 304,
+      "file": "304_Beethoven_Ludwig_van_n11op95_03.mxl",
+      "source_sha256": "48ae5fba848fc1f05ab256082641e0780869818522575820b87f46a789eb1f5d",
+      "row_count": 111,
+      "labeled_count": 103,
+      "abstention_count": 8,
+      "elapsed_ms": 4525.894
+    },
+    {
+      "index": 305,
+      "file": "305_Beethoven_Ludwig_van_n11op95_04.mxl",
+      "source_sha256": "cfa807c6991a83fc59abf0a33d678fa1902d3d59bbaea3df7207f20ac9f4abfd",
+      "row_count": 342,
+      "labeled_count": 332,
+      "abstention_count": 10,
+      "elapsed_ms": 8573.149
+    },
+    {
+      "index": 306,
+      "file": "306_Beethoven_Ludwig_van_n12op127_01.mxl",
+      "source_sha256": "94eba93b619c086452b21a1e5bdcb8effaff2bc221bdaa61b5700a0c0c7fa51f",
+      "row_count": 470,
+      "labeled_count": 460,
+      "abstention_count": 10,
+      "elapsed_ms": 10997.383
+    },
+    {
+      "index": 307,
+      "file": "307_Beethoven_Ludwig_van_n12op127_02.mxl",
+      "source_sha256": "8fd477c67d459a33f57635367b036d0ceffe20b86d76ca20bf7e3845e9302a0e",
+      "row_count": 51,
+      "labeled_count": 51,
+      "abstention_count": 0,
+      "elapsed_ms": 6180.243
+    },
+    {
+      "index": 308,
+      "file": "308_Beethoven_Ludwig_van_n12op127_03.mxl",
+      "source_sha256": "159ea414d4b4a1f81fb1b6c31dac373e0b4d010ca5ae18be41f059918dd37351",
+      "row_count": 564,
+      "labeled_count": 527,
+      "abstention_count": 37,
+      "elapsed_ms": 13626.316
+    },
+    {
+      "index": 309,
+      "file": "309_Beethoven_Ludwig_van_n12op127_04.mxl",
+      "source_sha256": "60530d0505a3c6b5e51dbb5ecc61fc556db25d142d15de777f9fc4c50c0ef8b6",
+      "row_count": 390,
+      "labeled_count": 386,
+      "abstention_count": 4,
+      "elapsed_ms": 16428.264
+    },
+    {
+      "index": 310,
+      "file": "310_Beethoven_Ludwig_van_n13op130_01.mxl",
+      "source_sha256": "21a08c72ec37a171769ae64173640b3fb5e55c5692e8476b3c354c973cb5f8db",
+      "row_count": 389,
+      "labeled_count": 379,
+      "abstention_count": 10,
+      "elapsed_ms": 14076.346
+    },
+    {
+      "index": 311,
+      "file": "311_Beethoven_Ludwig_van_n13op130_02.mxl",
+      "source_sha256": "8da2b9a144bb75bdc347b07bcf0dbbc517ebe6d5f33ea1c55c1227c380b9431b",
+      "row_count": 221,
+      "labeled_count": 211,
+      "abstention_count": 10,
+      "elapsed_ms": 5079.754
+    },
+    {
+      "index": 312,
+      "file": "312_Beethoven_Ludwig_van_n13op130_03.mxl",
+      "source_sha256": "d2b3c2aae34e55f5364ce6c09cb707f4bbc1174572fadb820e652ae3bc34fa73",
+      "row_count": 232,
+      "labeled_count": 232,
+      "abstention_count": 0,
+      "elapsed_ms": 8898.878
+    },
+    {
+      "index": 313,
+      "file": "313_Beethoven_Ludwig_van_n13op130_04.mxl",
+      "source_sha256": "72fb99f245722b1b525bc35352db7f2f495a9f34ba329820fe41b9784deb7b2c",
+      "row_count": 239,
+      "labeled_count": 238,
+      "abstention_count": 1,
+      "elapsed_ms": 4883.131
+    },
+    {
+      "index": 314,
+      "file": "314_Beethoven_Ludwig_van_n13op130_05.mxl",
+      "source_sha256": "95f5f2e8b1143bb3fb2091874eb30bd5086f9ce49aea90113ec0b4b8374f9c41",
+      "row_count": 137,
+      "labeled_count": 136,
+      "abstention_count": 1,
+      "elapsed_ms": 4470.346
+    },
+    {
+      "index": 315,
+      "file": "315_Beethoven_Ludwig_van_n13op130_06.mxl",
+      "source_sha256": "b3cd7973903c9bc376e6a46b7e532af6fee4ff5d0e2b1c190f624d5b30727b30",
+      "row_count": 652,
+      "labeled_count": 642,
+      "abstention_count": 10,
+      "elapsed_ms": 21451.597
+    },
+    {
+      "index": 316,
+      "file": "316_Beethoven_Ludwig_van_n14op131_01.mxl",
+      "source_sha256": "3ef14e0de71258e75b224ecb30e614a785a1cd43c7de064766a8d2b81f011f34",
+      "row_count": 183,
+      "labeled_count": 182,
+      "abstention_count": 1,
+      "elapsed_ms": 5558.263
+    },
+    {
+      "index": 317,
+      "file": "317_Beethoven_Ludwig_van_n14op131_02.mxl",
+      "source_sha256": "b5070256e0541dff4a58cbe7aa7ebc0caba517348372a218c3389c0ece012e20",
+      "row_count": 302,
+      "labeled_count": 296,
+      "abstention_count": 6,
+      "elapsed_ms": 6099.315
+    },
+    {
+      "index": 318,
+      "file": "318_Beethoven_Ludwig_van_n14op131_03.mxl",
+      "source_sha256": "c1e7576e163f0cd08dec5803d8af2414d7c767894f39b82ec75eea579ecb7bc3",
+      "row_count": 20,
+      "labeled_count": 17,
+      "abstention_count": 3,
+      "elapsed_ms": 3065.929
+    },
+    {
+      "index": 319,
+      "file": "319_Beethoven_Ludwig_van_n14op131_04.mxl",
+      "source_sha256": "dd1c1f792d115951b921e5e6677f7041f6b6850eae8d8693a493664e166bd36d",
+      "row_count": 370,
+      "labeled_count": 368,
+      "abstention_count": 2,
+      "elapsed_ms": 16098.61
+    },
+    {
+      "index": 320,
+      "file": "320_Beethoven_Ludwig_van_n14op131_05.mxl",
+      "source_sha256": "7c1da2425d83617a46f5a530612ef732e2c5fd1311ed223b5bea7dd69eecae31",
+      "row_count": 102,
+      "labeled_count": 102,
+      "abstention_count": 0,
+      "elapsed_ms": 5554.991
+    },
+    {
+      "index": 321,
+      "file": "321_Beethoven_Ludwig_van_n14op131_06.mxl",
+      "source_sha256": "a3e813cca8b42f9922b8660f980c67586c5b7cd4e112625dccbd75f78abaff1c",
+      "row_count": 56,
+      "labeled_count": 56,
+      "abstention_count": 0,
+      "elapsed_ms": 3021.156
+    },
+    {
+      "index": 322,
+      "file": "322_Beethoven_Ludwig_van_n14op131_07.mxl",
+      "source_sha256": "fedf2813abe42e075156680653b99800fbacd1375d4ee63bf800c4982f9ff352",
+      "row_count": 463,
+      "labeled_count": 450,
+      "abstention_count": 13,
+      "elapsed_ms": 11055.29
+    },
+    {
+      "index": 323,
+      "file": "323_Beethoven_Ludwig_van_n15op132_01.mxl",
+      "source_sha256": "d1c11b365d270fa767e26148a83ae2367f2911765e1329d4e04521c3c3838fb3",
+      "row_count": 534,
+      "labeled_count": 528,
+      "abstention_count": 6,
+      "elapsed_ms": 14829.368
+    },
+    {
+      "index": 324,
+      "file": "324_Beethoven_Ludwig_van_n15op132_02.mxl",
+      "source_sha256": "628492df65573d673f2d35fe1044b7305f557cbfaa24cb71e52efc03fa92befc",
+      "row_count": 528,
+      "labeled_count": 495,
+      "abstention_count": 33,
+      "elapsed_ms": 8916.539
+    },
+    {
+      "index": 325,
+      "file": "325_Beethoven_Ludwig_van_n15op132_03.mxl",
+      "source_sha256": "c93986b987bdd49539fdcc86e50093eb230f4353ae227fd0ddec5c43993ff51a",
+      "row_count": 304,
+      "labeled_count": 304,
+      "abstention_count": 0,
+      "elapsed_ms": 10077.362
+    },
+    {
+      "index": 326,
+      "file": "326_Beethoven_Ludwig_van_Quartet_Op_132_Movement_4.mxl",
+      "source_sha256": "e48202a2defe5211841dc9dca5fa914786a4c3c06ee97f16676580f41714c54b",
+      "row_count": 73,
+      "labeled_count": 69,
+      "abstention_count": 4,
+      "elapsed_ms": 3625.0
+    },
+    {
+      "index": 327,
+      "file": "327_Beethoven_Ludwig_van_Quartet_Op_132_Movement_5.mxl",
+      "source_sha256": "3fa4baf7b115f0492031aab4c2d036b32d754b6272f42d725098e9bc9fdec3eb",
+      "row_count": 640,
+      "labeled_count": 635,
+      "abstention_count": 5,
+      "elapsed_ms": 14073.239
+    },
+    {
+      "index": 328,
+      "file": "328_Beethoven_Ludwig_van_n16op135_01.mxl",
+      "source_sha256": "799d0545e868c72f4f518d0d6d7f91596a91a0d5f71a6d27e7e8a4cc652ec3f1",
+      "row_count": 260,
+      "labeled_count": 252,
+      "abstention_count": 8,
+      "elapsed_ms": 8146.949
+    },
+    {
+      "index": 329,
+      "file": "329_Beethoven_Ludwig_van_n16op135_02.mxl",
+      "source_sha256": "62ed4a7eca90ff70340ca9bdc104a4cfd334b600fd5e09164e3f5884cd166090",
+      "row_count": 290,
+      "labeled_count": 278,
+      "abstention_count": 12,
+      "elapsed_ms": 5768.215
+    },
+    {
+      "index": 330,
+      "file": "330_Beethoven_Ludwig_van_n16op135_03.mxl",
+      "source_sha256": "72284fa203813da691bc475c2028cabbfc33df61fd9be7281dca765752826011",
+      "row_count": 133,
+      "labeled_count": 133,
+      "abstention_count": 0,
+      "elapsed_ms": 4564.529
+    },
+    {
+      "index": 331,
+      "file": "331_Beethoven_Ludwig_van_n16op135_04.mxl",
+      "source_sha256": "ce5988ac0de3161ff853a517abaf052404ea4c5c850fc1c041a8daf840f69e93",
+      "row_count": 775,
+      "labeled_count": 750,
+      "abstention_count": 25,
+      "elapsed_ms": 16197.948
+    },
+    {
+      "index": 332,
+      "file": "332_Bach_Crucifixus_from_the_B_Minor_mass_BWV232.mxl",
+      "source_sha256": "3b3171c86e95c5382f59b3468e57faaf5cb55245f1fc0884fe34f07381052fe9",
+      "row_count": 116,
+      "labeled_count": 116,
+      "abstention_count": 0,
+      "elapsed_ms": 3639.792
+    },
+    {
+      "index": 333,
+      "file": "333_J_S_Bach_Partita_No_2_BWV1004_No_5_Chaconne.mxl",
+      "source_sha256": "ba8d15e9c974694f5ea12127f379e0b0ea09d37c8de541394c7be11aa4ced79d",
+      "row_count": 431,
+      "labeled_count": 421,
+      "abstention_count": 10,
+      "elapsed_ms": 7973.761
+    },
+    {
+      "index": 334,
+      "file": "334_Purcell_Chacony_Chaconne_in_G_Minor_Z730.mxl",
+      "source_sha256": "c6b27133de0ddebcac0827fda1bf0dde76ecdfaadda3edad200857eb58fbc7f1",
+      "row_count": 288,
+      "labeled_count": 287,
+      "abstention_count": 1,
+      "elapsed_ms": 6073.028
+    },
+    {
+      "index": 335,
+      "file": "335_Purcell_Purcell_Sonata_in_G_Minor_Z807.mxl",
+      "source_sha256": "793148b71ded02995e277cc0442be7fbc836b07142450f323294bc2dd7073f46",
+      "row_count": 354,
+      "labeled_count": 346,
+      "abstention_count": 8,
+      "elapsed_ms": 5671.079
+    }
+  ]
+}
