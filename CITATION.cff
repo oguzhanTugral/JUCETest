@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this validation package, please cite it and the associated manuscript."
+title: "musWM × When-in-Rome 335 validation"
+type: software
+authors:
+  - family-names: "Tuğral"
+    given-names: "Oğuzhan"
+year: 2026
+license: MIT
+repository-code: "https://github.com/oguzhanTugral/JUCETest"
+keywords:
+  - music cognition
+  - harmonic analysis
+  - Roman numeral analysis
+  - reproducibility
+  - real-time analysis
+
