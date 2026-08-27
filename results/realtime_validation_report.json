@@ -1,0 +1,1191 @@
+{
+  "validationVersion": 1,
+  "generatedAt": "2026-08-27T15:46:03.198Z",
+  "executionMode": "accelerated deterministic MIDI replay with synthetic EEG, cardiovascular, and behavioral streams",
+  "filesRequested": 335,
+  "filesParsed": 335,
+  "errors": [],
+  "styles": {
+    "Western art music": 335
+  },
+  "styleCount": 1,
+  "harmonicTokensRecorded": 46770,
+  "completeMultimodalRecords": 46770,
+  "coreChecks": 49750,
+  "coreMatches": 49750,
+  "coreParityPercent": 100,
+  "latencyMs": {
+    "count": 46770,
+    "min": 0.0079000000000633,
+    "mean": 0.25744870857388974,
+    "p50": 0.126700000022538,
+    "p95": 0.7774999999965075,
+    "p99": 1.78169999999227,
+    "max": 36.923900000001595
+  },
+  "eegSnapshotAgeMs": {
+    "count": 46770,
+    "min": 0,
+    "mean": 1.6448150523840068,
+    "p50": 2,
+    "p95": 3,
+    "p99": 5,
+    "max": 49
+  },
+  "cardioSnapshotAgeMs": {
+    "count": 46770,
+    "min": 0,
+    "mean": 422.9578789822536,
+    "p50": 421,
+    "p95": 807,
+    "p99": 842,
+    "max": 852
+  },
+  "behavioralSnapshotAgeMs": {
+    "count": 46770,
+    "min": 0,
+    "mean": 60.13282018387856,
+    "p50": 60,
+    "p95": 114,
+    "p99": 119,
+    "max": 162
+  },
+  "matrixValidation": {
+    "ok": false,
+    "checkedMatrixFamilies": 40,
+    "issues": [
+      {
+        "type": "rotation",
+        "code": "4",
+        "mode": "M",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "4",
+        "mode": "M",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "4",
+        "mode": "M",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "4",
+        "mode": "M",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "4",
+        "mode": "M",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "4",
+        "mode": "M",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "4",
+        "mode": "M",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "4",
+        "mode": "M",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "4",
+        "mode": "M",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "4",
+        "mode": "M",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "4",
+        "mode": "M",
+        "root": 11
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "M",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "M",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "M",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "M",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "M",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "M",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "M",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "M",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "M",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "M",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "M",
+        "root": 11
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "m",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "m",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "m",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "m",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "m",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "m",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "m",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "m",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "m",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "m",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "7",
+        "mode": "m",
+        "root": 11
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 6 - 9",
+        "mode": "M",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 6 - 9",
+        "mode": "M",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 6 - 9",
+        "mode": "M",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 6 - 9",
+        "mode": "M",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 6 - 9",
+        "mode": "M",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 6 - 9",
+        "mode": "M",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 6 - 9",
+        "mode": "M",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 6 - 9",
+        "mode": "M",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 6 - 9",
+        "mode": "M",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 6 - 9",
+        "mode": "M",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 6 - 9",
+        "mode": "M",
+        "root": 11
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 11
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 10",
+        "mode": "M",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 10",
+        "mode": "M",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 10",
+        "mode": "M",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 10",
+        "mode": "M",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 10",
+        "mode": "M",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 10",
+        "mode": "M",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 10",
+        "mode": "M",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 10",
+        "mode": "M",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 10",
+        "mode": "M",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 10",
+        "mode": "M",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 10",
+        "mode": "M",
+        "root": 11
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "M",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "M",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "M",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "M",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "M",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "M",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "M",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "M",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "M",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "M",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "M",
+        "root": 11
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "m",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "m",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "m",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "m",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "m",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "m",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "m",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "m",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "m",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "m",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "2 - 3",
+        "mode": "m",
+        "root": 11
+      },
+      {
+        "type": "rotation",
+        "code": "4 - 10",
+        "mode": "m",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "4 - 10",
+        "mode": "m",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "4 - 10",
+        "mode": "m",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "4 - 10",
+        "mode": "m",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "4 - 10",
+        "mode": "m",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "4 - 10",
+        "mode": "m",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "4 - 10",
+        "mode": "m",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "4 - 10",
+        "mode": "m",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "4 - 10",
+        "mode": "m",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "4 - 10",
+        "mode": "m",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "4 - 10",
+        "mode": "m",
+        "root": 11
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 9",
+        "mode": "M",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 9",
+        "mode": "M",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 9",
+        "mode": "M",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 9",
+        "mode": "M",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 9",
+        "mode": "M",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 9",
+        "mode": "M",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 9",
+        "mode": "M",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 9",
+        "mode": "M",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 9",
+        "mode": "M",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 9",
+        "mode": "M",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "6 - 9",
+        "mode": "M",
+        "root": 11
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 9",
+        "mode": "M",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 9",
+        "mode": "M",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 9",
+        "mode": "M",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 9",
+        "mode": "M",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 9",
+        "mode": "M",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 9",
+        "mode": "M",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 9",
+        "mode": "M",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 9",
+        "mode": "M",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 9",
+        "mode": "M",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 9",
+        "mode": "M",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 9",
+        "mode": "M",
+        "root": 11
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 10",
+        "mode": "M",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 10",
+        "mode": "M",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 10",
+        "mode": "M",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 10",
+        "mode": "M",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 10",
+        "mode": "M",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 10",
+        "mode": "M",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 10",
+        "mode": "M",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 10",
+        "mode": "M",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 10",
+        "mode": "M",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 10",
+        "mode": "M",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "7 - 10",
+        "mode": "M",
+        "root": 11
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7",
+        "mode": "m",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7",
+        "mode": "m",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7",
+        "mode": "m",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7",
+        "mode": "m",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7",
+        "mode": "m",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7",
+        "mode": "m",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7",
+        "mode": "m",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7",
+        "mode": "m",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7",
+        "mode": "m",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7",
+        "mode": "m",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7",
+        "mode": "m",
+        "root": 11
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7 - 10",
+        "mode": "M",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7 - 10",
+        "mode": "M",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7 - 10",
+        "mode": "M",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7 - 10",
+        "mode": "M",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7 - 10",
+        "mode": "M",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7 - 10",
+        "mode": "M",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7 - 10",
+        "mode": "M",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7 - 10",
+        "mode": "M",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7 - 10",
+        "mode": "M",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7 - 10",
+        "mode": "M",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "5 - 7 - 10",
+        "mode": "M",
+        "root": 11
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 5 - 10",
+        "mode": "M",
+        "root": 1
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 5 - 10",
+        "mode": "M",
+        "root": 2
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 5 - 10",
+        "mode": "M",
+        "root": 3
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 5 - 10",
+        "mode": "M",
+        "root": 4
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 5 - 10",
+        "mode": "M",
+        "root": 5
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 5 - 10",
+        "mode": "M",
+        "root": 6
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 5 - 10",
+        "mode": "M",
+        "root": 7
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 5 - 10",
+        "mode": "M",
+        "root": 8
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 5 - 10",
+        "mode": "M",
+        "root": 9
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 5 - 10",
+        "mode": "M",
+        "root": 10
+      },
+      {
+        "type": "rotation",
+        "code": "3 - 5 - 10",
+        "mode": "M",
+        "root": 11
+      },
+      {
+        "type": "figure",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 0,
+        "keyIndex": 5,
+        "label": "V7(dyad)",
+        "expectedFigure": "",
+        "actualFigure": "7"
+      },
+      {
+        "type": "figure",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 1,
+        "keyIndex": 5,
+        "label": "V7(dyad)",
+        "expectedFigure": "",
+        "actualFigure": "7"
+      },
+      {
+        "type": "figure",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 2,
+        "keyIndex": 5,
+        "label": "V7(dyad)",
+        "expectedFigure": "",
+        "actualFigure": "7"
+      },
+      {
+        "type": "figure",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 3,
+        "keyIndex": 5,
+        "label": "V7(dyad)",
+        "expectedFigure": "",
+        "actualFigure": "7"
+      },
+      {
+        "type": "figure",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 4,
+        "keyIndex": 5,
+        "label": "V7(dyad)",
+        "expectedFigure": "",
+        "actualFigure": "7"
+      },
+      {
+        "type": "figure",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 5,
+        "keyIndex": 5,
+        "label": "V7(dyad)",
+        "expectedFigure": "",
+        "actualFigure": "7"
+      },
+      {
+        "type": "figure",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 6,
+        "keyIndex": 5,
+        "label": "V7(dyad)",
+        "expectedFigure": "",
+        "actualFigure": "7"
+      },
+      {
+        "type": "figure",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 7,
+        "keyIndex": 5,
+        "label": "V7(dyad)",
+        "expectedFigure": "",
+        "actualFigure": "7"
+      },
+      {
+        "type": "figure",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 8,
+        "keyIndex": 5,
+        "label": "V7(dyad)",
+        "expectedFigure": "",
+        "actualFigure": "7"
+      },
+      {
+        "type": "figure",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 9,
+        "keyIndex": 5,
+        "label": "V7(dyad)",
+        "expectedFigure": "",
+        "actualFigure": "7"
+      },
+      {
+        "type": "figure",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 10,
+        "keyIndex": 5,
+        "label": "V7(dyad)",
+        "expectedFigure": "",
+        "actualFigure": "7"
+      },
+      {
+        "type": "figure",
+        "code": "3 - 7",
+        "mode": "M",
+        "root": 11,
+        "keyIndex": 5,
+        "label": "V7(dyad)",
+        "expectedFigure": "",
+        "actualFigure": "7"
+      }
+    ]
+  },
+  "checks": {
+    "expectedMidiCount": true,
+    "allMidiParsed": true,
+    "singleCanonicalEngineSource": true,
+    "matrixValidationPassed": false,
+    "realtimeAdapterSharedCoreParity": true,
+    "everyTokenHasConcurrentMultimodalRecord": true,
+    "oneToOneTokenLinkIds": true,
+    "eegSnapshotWithin50Ms": true,
+    "cardioSnapshotWithin1000Ms": true,
+    "behaviorSnapshotWithin250Ms": true,
+    "subSecondLatencyAllTokens": true,
+    "conferenceClaimTenStylesSupported": false
+  },
+  "technicalArchitectureValidationPassed": false,
+  "limitations": [
+    "Synthetic streams validate timing, synchronization, linkage, exportability, and processing latency; they do not validate physiological effects or biological signal validity.",
+    "This is accelerated deterministic replay, not 335 wall-clock hardware playback sessions.",
+    "No physical EEG or cardiovascular device transport, clock drift, packet loss, or hardware jitter is tested.",
+    "The corpus metadata used in this run contains 1 broad style categories."
+  ],
+  "engineDisclosure": "The musWM engine was invoked as a proprietary black-box dependency and is not distributed in this repository."
+}
